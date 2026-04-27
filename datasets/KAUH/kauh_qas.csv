@@ -1,0 +1,1010 @@
+ID,Question,Answer
+BP33,What is the diagnosis?,Asthma
+BP33,What type of sound is heard?,Expiratory Wheezes
+BP33,Where is the sound located?,Posterior Right Middle
+DP63,What type of sound is associated with COPD?,Expiratory Wheezes
+DP63,Where is the sound located in a patient with COPD?,Posterior Right Lower
+DP63,What condition is indicated by expiratory wheezes in the posterior right lower location?,COPD
+EP30,What is the diagnosis from the respiratory auscultation findings?,Normal
+EP30,What type of sound was heard during the auscultation?,Normal
+EP30,Where was the sound located?,Posterior Right Middle
+DP85,What is the diagnosis?,Normal
+DP85,What type of sound was heard?,Normal
+DP85,Where was the sound located?,Anterior Right Upper
+DP71,What is the diagnosis based on the respiratory auscultation findings?,Normal
+DP71,What type of sound is heard during auscultation?,Normal
+DP71,Where is the auscultation sound located?,Posterior Right Upper
+BP52,What condition is associated with crepitations in the posterior lower lung area?,Lung Fibrosis
+BP52,Which sound type is heard in a patient with lung fibrosis in the posterior lower lung area?,Crepitations
+BP52,Where are the crepitations heard in a patient diagnosed with lung fibrosis?,Posterior Lower
+BP75,What is the diagnosis?,Normal
+BP75,What type of sound is heard?,Normal
+BP75,Where is the sound located?,Posterior Lower Upper
+BP39,What is the suspected diagnosis?,Heart failure
+BP39,What type of breath sound was heard?,Crepitations
+BP39,Where was the breath sound located?,Posterior Right Lower
+EP69,What is the diagnosis based on the respiratory auscultation findings?,Pneumonia
+EP69,What type of sound was heard during the auscultation?,Bronchial
+EP69,Where was the abnormal sound located?,Posterior Right Lower
+BP46,What is the diagnosis based on the auscultation findings?,Asthma
+BP46,What type of sound is heard during auscultation?,Expiratory Wheezes
+BP46,Where is the abnormal sound located?,Posterior Lower Upper
+DP13,What is the diagnosis?,Heart Failure
+DP13,What type of abnormal respiratory sound is present?,Crackles
+DP13,Where is the abnormal sound located?,Posterior Lower Lower
+BP54,What is the diagnosis based on the auscultation findings?,The diagnosis is heart failure.
+BP54,What type of sound was heard during auscultation?,Crepitations were heard.
+BP54,Where were the abnormal sounds detected?,The abnormal sounds were detected in the Posterior Right Lower lung.
+DP41,What is the diagnosis?,Pneumonia
+DP41,What type of sound is present?,Crepitations
+DP41,Where is the abnormal sound located?,Posterior Right Middle
+EP15,What condition is diagnosed?,Asthma
+EP15,What type of respiratory sound is heard?,Expiratory Wheezes
+EP15,Where is the sound located?,Posterior Right Upper
+DP99,What is the diagnosis based on the auscultation findings?,Normal
+DP99,What type of sound was heard during the respiratory auscultation?,Normal
+DP99,Where was the sound heard?,Posterior Right Middle
+DP81,What is the diagnosis?,Normal
+DP81,What type of sound was heard?,Normal
+DP81,Where was the sound located?,Posterior Lower Upper
+EP52,What condition is indicated by the auscultation findings?,Lung Fibrosis
+EP52,What type of respiratory sound is associated with lung fibrosis in the given condition?,Crepitations
+EP52,Where on the body are the crepitations for lung fibrosis heard?,Posterior Lower Lower
+DP21,What is the diagnosis associated with the auscultation findings?,Bronchopneumonia
+DP21,What type of auscultatory sound was heard?,Crepitations
+DP21,Where is the auscultatory sound located?,Posterior Right Lower
+BP20,What conditions are diagnosed?,Asthma and lung fibrosis
+BP20,What type of sound is heard during auscultation?,Crackles
+BP20,Where is the sound localized?,Anterior Right Middle
+BP90,What is the diagnosis associated with the auscultation findings?,Heart failure
+BP90,What type of sound is heard during auscultation?,Crepitations
+BP90,Where is the abnormal sound located in the lungs?,Posterior Lower Middle
+EP79,What is the diagnosis?,Asthma
+EP79,What type of respiratory sound is present?,Expiratory Wheezes
+EP79,Where is the abnormal respiratory sound located?,Anterior Right Upper
+EP39,What condition could be indicated by crepitations heard during respiratory auscultation?,Heart failure
+EP39,What type of abnormal sound may be heard in the lungs of a patient with heart failure?,Crepitations
+EP39,Where were the crepitations located in the patient diagnosed with heart failure?,Posterior Right Lower
+EP54,What diagnosis is suggested by the presence of crepitations in the posterior right lower lung field?,Heart failure.
+EP54,Which abnormal breath sound is associated with heart failure in this case?,Crepitations.
+EP54,Where were the crepitations located in the patient with heart failure?,Posterior Right Lower lung field.
+BP47,Which respiratory condition is indicated?,Asthma
+BP47,What type of abnormal lung sound is associated with the condition?,Expiratory Wheezes
+BP47,Where are the abnormal lung sounds located?,Posterior Lower Middle
+DP87,What is the diagnosis?,Normal
+DP87,What type of sound is heard upon auscultation?,Normal
+DP87,Where is the sound auscultated?,Posterior Right Middle
+DP83,What is the diagnosis for the patient?,Normal
+DP83,What type of sound was heard during auscultation?,Normal
+DP83,Where was the sound located during auscultation?,Anterior Right Upper
+DP27,What condition is associated with expiratory wheezes in the posterior right middle lung?,Asthma.
+DP27,Where are the wheezes located in the patient with asthma?,Posterior Right Middle.
+DP27,What type of sound is typically heard in asthma?,Expiratory wheezes.
+DP39,What condition is the patient diagnosed with?,Heart failure
+DP39,What type of sound is heard in the patient?,Crepitations
+DP39,Where is the sound located in the patient?,Posterior Right Lower
+BP31,What is the diagnosis based on the respiratory auscultation findings?,Normal
+BP31,What type of sound is heard during auscultation?,Normal
+BP31,Where is the sound location identified?,Posterior Lower Middle
+EP90,What condition is associated with the crepitations observed during auscultation?,Heart failure.
+EP90,Where were the crepitations heard in the lung fields?,Posterior Lower Middle.
+EP90,What type of lung sound is linked with heart failure in this case?,Crepitations.
+DP54,What clinical condition is associated with the findings?,Heart failure.
+DP54,What type of respiratory sound was detected?,Crepitations.
+DP54,Where was the abnormal sound detected?,Posterior right lower lobe.
+BP18,What condition is being diagnosed?,Pneumonia
+BP18,What type of sound is associated with the diagnosis?,Crackles
+BP18,Where is the abnormal respiratory sound located?,Posterior Right Upper
+BP74,What is the diagnosis?,Normal
+BP74,What type of sound is heard?,Normal
+BP74,Where is the sound located?,Posterior Right Middle
+BP106,What is the diagnosis based on the auscultation findings?,Asthma
+BP106,What is the type of sound heard during auscultation?,Expiratory Wheezes
+BP106,Where were the abnormal sounds located during auscultation?,Posterior Lower Upper
+EP28,What is the diagnosis?,Bronchitis (BRON)
+EP28,What type of sound is heard?,Crepitations
+EP28,Where are the sounds located?,Posterior Lower Upper
+BP51,What is the diagnosis based on the respiratory auscultation findings?,Normal
+BP51,What type of sound was heard during the auscultation?,Normal
+BP51,Where was the normal sound heard during the auscultation?,Posterior Lower Middle
+DP58,What condition is being described?,Asthma
+DP58,What type of sound is heard during auscultation?,Expiratory Wheezes
+DP58,Where is the sound located?,Posterior Lower Middle
+BP72,What is the diagnosis?,Normal
+BP72,What type of sound is heard?,Normal
+BP72,Where is the sound located?,Posterior Right Upper
+DP97,What is the diagnosis?,Asthma
+DP97,What type of sound is associated with the condition?,Expiratory Wheezes
+DP97,Where are the sounds located?,Posterior Right Upper
+EP53,What is the sound type associated with asthma?,Expiratory Wheezes
+EP53,Where is the location of the respiratory sound for asthma?,Posterior Right Middle
+EP53,Which condition is characterized by expiratory wheezes in the posterior right middle region?,Asthma
+BP77,What is the diagnosis?,Asthma
+BP77,What type of respiratory sound is heard?,Expiratory Wheezes
+BP77,Where is the respiratory sound located?,Anterior Right Lower
+BP38,What is the diagnosis?,Asthma
+BP38,What type of sound was heard?,Expiratory Wheezes
+BP38,Where was the sound located?,Posterior Right Middle
+BP22,What is the diagnosis?,Bronchitis (BRON)
+BP22,What type of sound is heard?,Crepitations
+BP22,Where is the abnormal sound located?,Posterior Right Upper
+DP45,What condition is indicated by the auscultation findings?,Heart failure.
+DP45,What type of sound was heard during auscultation?,Crepitations.
+DP45,Where were the crepitations located?,Posterior right lower lung field.
+DP104,What is the diagnosis?,Asthma
+DP104,What type of sound is heard during auscultation?,Expiratory Wheezes
+DP104,Where is the sound located?,Posterior Lower Upper
+BP9,What is the diagnosed condition based on the respiratory auscultation findings?,Asthma
+BP9,What type of sound is commonly associated with the diagnosed condition?,Expiratory Wheezes
+BP9,Where was the abnormal respiratory sound primarily heard?,Posterior Right Lower
+DP1,What is the diagnosis?,Asthma
+DP1,What type of sound is heard?,Inspiratory and Expiratory Wheezes
+DP1,Where is the sound located?,Posterior Lower Lower
+BP100,What is the diagnosis based on the findings?,Normal.
+BP100,What type of sound was heard during auscultation?,Normal.
+BP100,Where was the sound heard?,Posterior Right Middle.
+EP45,What condition is indicated by crepitations in the posterior right lower lung area?,Heart failure
+EP45,What sound type is associated with heart failure in the given findings?,Crepitations
+EP45,Where are the crepitations located?,Posterior right lower
+DP52,What condition is associated with the presence of crepitations in the posterior lower lung region?,Lung Fibrosis
+DP52,What type of sound is typically heard in patients diagnosed with Lung Fibrosis during auscultation?,Crepitations
+DP52,Where are crepitations most commonly auscultated in patients with Lung Fibrosis?,Posterior Lower Lung region
+BP70,What is the diagnosis based on the respiratory auscultation findings?,Normal
+BP70,What type of sound was detected during the respiratory auscultation?,Normal
+BP70,Where was the sound located during the respiratory auscultation?,Posterior Lower Upper
+EP36,What is the diagnosis related to the auscultation findings?,Pneumonia
+EP36,What type of sound is heard during auscultation?,Crepitations
+EP36,Where is the sound located?,Posterior Right Middle
+DP91,What is the diagnosis?,Asthma
+DP91,What type of sound is heard?,Expiratory Wheezes
+DP91,Where is the sound located?,Posterior Right Upper
+EP73,What is the diagnosis?,Normal
+EP73,What type of sound was heard during auscultation?,Normal
+EP73,Where was the sound type identified?,Posterior Lower Lower
+DP57,What type of sound is typically heard in a patient diagnosed with COPD?,Expiratory Wheezes
+DP57,Where is the expiratory wheezes sound located in a patient with COPD?,Posterior Right Lower
+DP57,What is the diagnosis when expiratory wheezes are detected in the posterior right lower area?,COPD
+DP37,What is the diagnosis?,Pneumonia
+DP37,What type of sound is heard during auscultation?,Crepitations
+DP37,Where is the abnormal sound located?,Anterior Right Lower
+DP112,What is the diagnosis based on the given auscultation findings?,Normal
+DP112,What type of sound was heard during auscultation?,Normal
+DP112,Where was the normal respiratory sound located?,Posterior Lower Middle
+EP82,What is the diagnosis based on the respiratory auscultation findings?,Normal
+EP82,What type of sound was heard during the respiratory auscultation?,Normal
+EP82,Where were the normal respiratory sounds heard?,Posterior Lower Upper
+BP3,What diagnosis is indicated by the auscultation findings?,Asthma
+BP3,What type of respiratory sounds were heard?,Inspiratory and Expiratory Wheezes
+BP3,Where were the abnormal respiratory sounds located?,Posterior Lower Lower Right
+BP19,What condition is associated with crackles in this patient?,Heart failure
+BP19,What type of respiratory sound is heard?,Crackles
+BP19,Where are the crackles located?,Posterior Right Upper
+EP100,What is the diagnosis based on the respiratory auscultation findings?,Normal
+EP100,What type of sound was heard during the respiratory auscultation?,Normal
+EP100,Where was the auscultation performed?,Posterior Right Middle
+EP10,What condition is present?,Asthma
+EP10,What type of respiratory sound was heard?,Expiratory Wheezes
+EP10,Where was the respiratory sound located?,Posterior Right Upper
+BP16,What condition is associated with the auscultation findings?,Heart failure
+BP16,What type of sound was heard during auscultation?,Crackles
+BP16,Where was the abnormal sound located?,Posterior Right Upper
+EP98,What is the diagnosis based on the respiratory auscultation findings?,Normal
+EP98,What type of sound was heard during auscultation?,Normal
+EP98,What was the location of the auscultation?,Posterior Lower Lower
+DP86,What is the diagnosis based on the respiratory auscultation findings?,Normal
+DP86,What type of sound was heard during auscultation?,Normal
+DP86,Where was the auscultation performed?,Posterior Right Upper
+DP17,What respiratory condition is present?,COPD
+DP17,What type of respiratory sound is heard?,Expiratory Wheezes
+DP17,Where is the abnormal respiratory sound localized?,Anterior Right Middle
+BP95,What is the diagnosis based on the auscultation findings?,Normal
+BP95,What type of sounds were heard during auscultation?,Normal
+BP95,Where were the sounds heard during the examination?,Posterior Lower Middle
+EP18,What respiratory condition is indicated?,Pneumonia
+EP18,What type of sound is associated with this condition?,Crackles
+EP18,Where is the sound located?,Posterior Right Upper
+BP43,What condition is indicated in the auscultation findings?,Asthma
+BP43,What type of respiratory sound was observed?,Expiratory Wheezes
+BP43,Where was the abnormal sound localized?,Posterior Lower Middle
+BP55,What condition is associated with expiratory wheezes in the posterior right upper lung?,Asthma
+BP55,What type of sound is heard in the posterior right upper lung in a patient with asthma?,Expiratory Wheezes
+BP55,Where is the expiratory wheeze located in a patient with asthma?,Posterior Right Upper
+BP64,What is the diagnosis?,Asthma
+BP64,What type of sound is heard in the patient?,Expiratory Wheezes
+BP64,Where are the sounds located?,Posterior Lower Upper
+DP89,What is the diagnosis?,Normal
+DP89,What type of sound is heard?,Normal
+DP89,Where is the sound located?,Posterior Lower Middle
+EP26,What is the diagnosis?,Lung Fibrosis
+EP26,What type of sound is heard upon auscultation?,Crepitations
+EP26,Where is the sound located?,Posterior
+EP106,What is the diagnosis?,Asthma
+EP106,What type of sound is heard?,Expiratory Wheezes
+EP106,Where is the sound located?,Posterior Lower Upper
+BP88,What is the diagnosis?,Normal
+BP88,What type of sound is heard?,Normal
+BP88,Where is the sound located?,Anterior Right Upper
+BP76,What is the diagnosis based on the auscultation findings?,Normal
+BP76,What type of sound was heard during auscultation?,Normal
+BP76,Where was the sound located during auscultation?,Anterior Lower and Upper
+BP45,What is the diagnosis based on the auscultation findings?,Heart failure
+BP45,What type of sound was detected during auscultation?,Crepitations
+BP45,Where was the abnormal sound located?,Posterior Right Lower
+DP90,What is the diagnosis?,Heart failure
+DP90,What type of respiratory sound is heard?,Crepitations
+DP90,Where is the abnormal sound located?,Posterior Lower Middle
+DP95,What is the diagnosis?,Normal
+DP95,What type of sound was heard?,Normal
+DP95,Where was the sound located?,Posterior Lower Middle
+EP111,What condition is indicated by the auscultation findings?,COPD
+EP111,What type of respiratory sound was heard?,Expiratory Wheezes
+EP111,Where was the respiratory sound located?,Posterior Right Lower
+BP91,What is the diagnosis?,Asthma
+BP91,What type of sound was heard?,Expiratory Wheezes
+BP91,Where was the sound located?,Posterior Right Upper
+BP112,What is the diagnosis based on the respiratory auscultation findings?,Normal
+BP112,What type of sound is heard in the auscultation?,Normal
+BP112,Where is the auscultation sound located?,Posterior Lower Middle
+DP34,What is the diagnosis?,Heart failure
+DP34,What type of sound is heard?,Crepitations
+DP34,Where is the sound located?,Posterior Right Middle
+BP86,What is the diagnosis based on the auscultation findings?,Normal
+BP86,What type of lung sounds were heard?,Normal
+BP86,Where were the sounds located?,Posterior Right Upper
+DP76,What is the diagnosis?,Normal
+DP76,What type of sound was heard?,Normal
+DP76,Where was the sound located?,Anterior Lower Upper
+BP26,What condition is characterized by the presence of crepitations in the posterior lung fields?,Lung Fibrosis
+BP26,Where are the auscultated crepitations located in a patient with lung fibrosis?,Posterior
+BP26,What type of lung sounds are commonly associated with lung fibrosis?,Crepitations
+BP14,What condition is indicated by crackles in the anterior right middle lung field?,Heart Failure
+BP14,Where are crackles located in a patient diagnosed with heart failure?,Anterior Right Middle
+BP14,What type of respiratory sound is associated with heart failure in the anterior right middle lung field?,Crackles
+DP88,What is the diagnosis based on the auscultation findings?,Normal
+DP88,What type of breath sound was heard during auscultation?,Normal
+DP88,Where was the breath sound auscultated?,Anterior Right Upper
+DP3,What respiratory condition is being diagnosed?,Asthma
+DP3,What type of sound is heard upon auscultation?,Inspiratory Expiratory Wheezes
+DP3,Where is the abnormal sound located?,Posterior Lower Lower Right
+BP89,What type of lung sounds are heard?,Normal
+BP89,Where are the lung sounds being heard?,Posterior Lower Middle
+BP89,What is the diagnosis given the auscultation finding?,Normal
+DP100,What is the diagnosis?,Normal
+DP100,What type of sound was heard?,Normal
+DP100,Where was the sound located?,Posterior Right Middle
+DP29,What condition is indicated by the auscultation findings?,Heart failure
+DP29,What type of respiratory sound was heard?,Crepitations
+DP29,Where were the abnormal sounds located?,Posterior Lower Lower lungs
+DP28,What is the likely diagnosis for the patient?,Bronchitis (BRON)
+DP28,What type of sound was heard during auscultation?,Crepitations
+DP28,Where were the abnormal sounds located?,Posterior Lower Upper
+DP77,What condition is associated with the respiratory findings?,Asthma
+DP77,What type of respiratory sound is identified?,Expiratory Wheezes
+DP77,In which location is the abnormal sound heard?,Anterior Right Lower
+DP38,What is the diagnosed condition?,Asthma
+DP38,What type of respiratory sound is heard?,Expiratory Wheezes
+DP38,Where is the sound located?,Posterior Right Middle
+DP5,What condition is indicated by the presence of inspiratory crackles and expiratory wheezes?,Heart Failure + COPD
+DP5,Where are the abnormal breath sounds located in a patient with heart failure and COPD?,Posterior Lower Right
+DP5,What types of breath sounds are found in the posterior lower right region in a patient with heart failure and COPD?,Inspiratory Crackles and Expiratory Wheezes
+EP44,What condition is diagnosed based on the respiratory auscultation findings?,Asthma
+EP44,What type of sound is associated with the condition?,Expiratory Wheezes
+EP44,Where is the sound localized?,Posterior Right Upper
+EP20,What condition is indicated by crackles heard in the anterior right middle lung zone?,Asthma and lung fibrosis.
+EP20,In which location are crackles heard for a patient with asthma and lung fibrosis?,Anterior right middle lung zone.
+EP20,What type of respiratory sound is associated with asthma and lung fibrosis in the given auscultation findings?,Crackles.
+DP9,What is the diagnosis?,Asthma
+DP9,What type of sound was heard during auscultation?,Expiratory Wheezes
+DP9,Where was the abnormal sound located?,Posterior Right Lower
+EP13,What is the diagnosis associated with the auscultation findings?,Heart Failure
+EP13,What type of sound is heard during auscultation?,Crackles
+EP13,Where is the sound located during auscultation?,Posterior Lower Lower
+BP11,What is the patient's diagnosis?,Heart Failure
+BP11,What type of sound is heard during auscultation?,Crackles
+BP11,Where is the sound located?,Posterior Lower Lower
+DP43,What condition is suggested by the respiratory findings?,Asthma
+DP43,What type of respiratory sound is heard?,Expiratory Wheezes
+DP43,Where is the respiratory sound located?,Posterior Lower Middle
+BP36,What condition is mentioned?,Pneumonia
+BP36,What type of respiratory sound is heard?,Crepitations
+BP36,Where is the abnormal sound located?,Posterior Right Middle
+DP55,What is the likely diagnosis?,Asthma
+DP55,What type of sound is heard during auscultation?,Expiratory Wheezes
+DP55,Where is the abnormal sound located?,Posterior Right Upper
+EP56,What respiratory condition is indicated?,Asthma
+EP56,What type of sound is heard during auscultation?,Expiratory Wheezes
+EP56,Where is the auscultation sound located?,Posterior Right Middle
+DP64,What is the diagnosis of the patient based on the respiratory auscultation findings?,Asthma
+DP64,What type of sound was heard during auscultation?,Expiratory Wheezes
+DP64,Where were the abnormal sounds located during auscultation?,Posterior Lower Upper
+EP112,What is the diagnosis based on the auscultation findings?,Normal
+EP112,What type of lung sounds were heard during auscultation?,Normal
+EP112,Where on the body were the lung sounds auscultated?,Posterior Lower Middle
+EP63,What condition is indicated by the respiratory auscultation findings?,COPD
+EP63,What kind of respiratory sounds are associated with the condition?,Expiratory Wheezes
+EP63,Where are the abnormal respiratory sounds located?,Posterior Right Lower
+EP48,What is the diagnosis?,Normal
+EP48,What type of respiratory sound is heard?,Normal
+EP48,Where is the sound located?,Posterior Lower Upper
+DP60,What is the diagnosis associated with the findings?,Heart failure
+DP60,What type of sound was auscultated?,Crepitations
+DP60,Where were the auscultation findings located?,Posterior Lower Lower
+EP32,What is the diagnosis for the respiratory condition?,Normal
+EP32,What type of sound is heard during auscultation?,Normal
+EP32,Where is the sound located?,Anterior Right Lower
+BP104,What condition is indicated by the respiratory findings?,Asthma
+BP104,What type of sound was heard during auscultation?,Expiratory Wheezes
+BP104,Where were the abnormal sounds located?,Posterior Lower Upper
+BP7,What condition was diagnosed?,Heart Failure and COPD
+BP7,What types of sounds were auscultated?,Inspiratory Crackles and Expiratory Wheezes
+BP7,Where were the auscultated sounds located?,Posterior Lower Right
+BP1,What is the diagnosed condition?,Asthma
+BP1,What type of sound is heard during auscultation?,Inspiratory and expiratory wheezes
+BP1,Where on the body is the sound located?,Posterior lower lobes
+EP17,What condition is present?,COPD
+EP17,What type of sound is heard?,Expiratory Wheezes
+EP17,Where is the sound located?,Anterior Right Middle
+DP70,What is the diagnosis based on the respiratory auscultation findings?,Normal
+DP70,What type of sound was heard during the auscultation?,Normal
+DP70,Where was the sound located during the auscultation?,Posterior Lower Upper
+EP93,What is the diagnosis based on the respiratory auscultation?,Normal
+EP93,What type of respiratory sound was heard?,Normal
+EP93,Where was the respiratory sound auscultated?,Posterior Right Middle
+DP18,What is the diagnosis associated with the respiratory findings?,Pneumonia
+DP18,What type of auscultation sound is noted?,Crackles
+DP18,Where are the abnormal auscultation findings located?,Posterior Right Upper
+EP80,What condition is diagnosed?,Asthma
+EP80,What type of sound is heard?,Expiratory Wheezes
+EP80,Where is the sound located?,Anterior Lower Upper
+DP51,What is the diagnosis?,Normal
+DP51,What type of sound was heard?,Normal
+DP51,Where was the sound located?,Posterior Lower Middle
+DP106,What respiratory condition is diagnosed?,Asthma
+DP106,What type of sound is associated with the diagnosis?,Expiratory Wheezes
+DP106,Where is the sound heard?,Posterior Lower Upper
+BP17,What condition is associated with the respiratory findings?,COPD
+BP17,What type of respiratory sound was detected?,Expiratory Wheezes
+BP17,Where on the thorax was the abnormal sound identified?,Anterior Right Middle
+BP21,What condition has been diagnosed?,Bronchitis
+BP21,What type of sound is heard during auscultation?,Crepitations
+BP21,Where are the crepitations located?,Posterior right lower lung region
+DP74,What is the diagnosis?,Normal
+DP74,What is the sound type heard during auscultation?,Normal
+DP74,Where was the auscultated sound located?,Posterior Right Middle
+EP29,What condition is associated with Crepitations heard in the posterior lower lung fields?,Heart failure
+EP29,Where are Crepitations heard in a patient with heart failure?,Posterior lower lung fields
+EP29,What type of breath sounds are indicative of heart failure?,Crepitations
+DP72,What is the diagnosis?,Normal
+DP72,What type of sound is heard?,Normal
+DP72,Where is the sound located?,Posterior Right Upper
+DP46,What respiratory condition is indicated by the auscultation findings?,Asthma
+DP46,What type of sound is associated with the given condition?,Expiratory Wheezes
+DP46,Where is the sound located in the patient?,Posterior Lower Upper
+BP110,What condition is indicated by the respiratory findings?,COPD
+BP110,What type of lung sound is associated with COPD in this finding?,Expiratory Wheezes
+BP110,Where are the expiratory wheezes located in this patient?,Posterior Lower
+BP29,What is the diagnosed condition?,Heart failure
+BP29,What type of sound was heard during auscultation?,Crepitations
+BP29,Where were the auscultation findings located?,Posterior Lower Lower
+EP34,What is the diagnosed condition?,Heart failure
+EP34,What type of breath sound is heard?,Crepitations
+EP34,Where are the sounds located?,Posterior Right Middle
+BP67,What type of sound is associated with heart failure in this scenario?,Crepitations
+BP67,Where were the Crepitations heard?,Posterior Right Lower
+BP67,What is the diagnosis related to the auscultation findings?,Heart failure
+BP61,What condition is indicated based on the respiratory findings?,COPD
+BP61,What type of respiratory sound is present?,Expiratory Wheezes
+BP61,Where is the abnormal respiratory sound located?,Posterior Right Lower
+EP78,What condition is being described?,Asthma
+EP78,What type of sound is heard?,Expiratory Wheezes
+EP78,Where is the sound located?,Posterior Right Middle
+EP94,What is the auscultation finding in terms of diagnosis?,Normal
+EP94,What type of sound is heard during auscultation?,Normal
+EP94,Where is the sound primarily located during auscultation?,Posterior Lower Lower
+BP34,What is the diagnosed condition?,Heart failure
+BP34,What type of lung sound was heard?,Crepitations
+BP34,Where was the abnormal lung sound localized?,Posterior Right Middle
+BP83,What is the diagnosis?,Normal
+BP83,What type of sound was heard during auscultation?,Normal
+BP83,Where was the auscultation performed?,Anterior Right Upper
+BP87,What is the diagnosis?,Normal
+BP87,What type of sound was heard?,Normal
+BP87,Where was the sound located?,Posterior Right Middle
+DP31,What is the diagnosis based on the auscultation findings?,Normal
+DP31,What type of sound was heard during auscultation?,Normal
+DP31,Where was the auscultation sound localized?,Posterior Lower Middle
+DP33,What is the diagnosis associated with the auscultation findings?,Asthma
+DP33,What type of sound was heard during the respiratory auscultation?,Expiratory Wheezes
+DP33,Where was the abnormal sound located during the examination?,Posterior Right Middle
+EP12,What condition is associated with the sound findings?,Asthma
+EP12,Which type of respiratory sound is heard?,Expiratory Wheezes
+EP12,Where are the expiratory wheezes located?,Posterior Lower Lobes
+EP67,What is the diagnosis based on the respiratory auscultation findings?,Heart failure
+EP67,What type of sound is heard during auscultation?,Crepitations
+EP67,Where is the abnormal sound located?,Posterior Right Lower
+BP97,What condition is indicated by expiratory wheezes in the posterior right upper lung?,Asthma.
+BP97,What type of respiratory sound is associated with asthma in this patient?,Expiratory wheezes.
+BP97,Where are the expiratory wheezes located in a patient with asthma?,Posterior right upper lung.
+DP75,What diagnosis is given based on the respiratory auscultation findings?,Normal
+DP75,What type of sound was observed during respiratory auscultation?,Normal
+DP75,Where were the sounds heard during the respiratory auscultation?,Posterior Lower Upper
+EP49,What is the diagnosis?,Normal
+EP49,What type of sound was heard?,Normal
+EP49,Where was the sound heard?,Posterior Right Middle
+BP58,What condition is the patient diagnosed with?,Asthma
+BP58,What type of sound is heard during respiratory auscultation?,Expiratory Wheezes
+BP58,Where is the sound located?,Posterior Lower Middle
+EP60,What condition is indicated by crepitations heard in the posterior lower lung regions?,Heart failure.
+EP60,What type of sound is associated with heart failure in this case?,Crepitations.
+EP60,Where are the crepitations localized in a patient with heart failure?,Posterior lower lung regions.
+DP67,What condition is associated with the detected respiratory sound?,Heart failure
+DP67,What type of respiratory sound was heard?,Crepitations
+DP67,Where was the respiratory sound located?,Posterior Right Lower
+EP108,What condition is diagnosed?,COPD
+EP108,What type of auscultation sound is heard?,Expiratory Wheezes
+EP108,Where is the sound located?,Posterior Right Lower
+EP35,What condition is associated with expiratory wheezes in the anterior right lower lung region?,Asthma.
+EP35,Which lung sound type is characteristic of asthma in this case?,Expiratory Wheezes.
+EP35,Where were the expiratory wheezes heard in this patient with asthma?,Anterior right lower lung region.
+BP99,What is the diagnosis based on the auscultation findings?,Normal
+BP99,What type of sound was heard during the respiratory auscultation?,Normal
+BP99,Where was the sound located during the respiratory auscultation?,Posterior Right Middle
+EP84,What is the diagnosis based on the respiratory auscultation findings?,Normal
+EP84,What type of sound is heard during the auscultation?,Normal
+EP84,Where is the auscultation sound located?,Anterior Right Upper
+BP60,What condition is indicated by the auscultation findings?,Heart failure
+BP60,What type of lung sound is heard in this condition?,Crepitations
+BP60,Where are the abnormal lung sounds located in this condition?,Posterior Lower Lower
+BP81,What type of sound is heard?,Normal
+BP81,Where is the sound located?,Posterior Lower Upper
+BP81,What is the diagnosis?,Normal
+BP27,What is the diagnosis associated with the auscultation findings?,asthma
+BP27,What type of sound is heard during auscultation?,Expiratory Wheezes
+BP27,Where is the auscultation sound located?,Posterior Right Middle
+EP1,What is the diagnosed condition?,Asthma
+EP1,What type of abnormal lung sound is present?,Inspiratory Expiratory Wheezes
+EP1,Where is the abnormal lung sound located?,Posterior Lower Lower
+DP47,What condition is indicated by expiratory wheezes located in the posterior lower middle region?,Asthma is indicated by expiratory wheezes located in the posterior lower middle region.
+DP47,Where are the expiratory wheezes located in a patient with asthma?,"In a patient with asthma, the expiratory wheezes are located in the posterior lower middle region."
+DP47,What type of sound is associated with asthma in the posterior lower middle region?,Expiratory wheezes are the type of sound associated with asthma in the posterior lower middle region.
+BP71,What is the diagnosis based on the auscultation findings?,Normal
+BP71,What type of sound was heard during respiratory auscultation?,Normal
+BP71,Where was the normal sound heard during the examination?,Posterior Right Upper
+BP85,What is the diagnosis?,Normal
+BP85,What type of sound is heard during auscultation?,Normal
+BP85,Where is this sound located?,Anterior Right Upper
+EP57,What is the diagnosis?,COPD
+EP57,What type of sound is heard during auscultation?,Expiratory Wheezes
+EP57,Where is the sound located?,Posterior Right Lower
+EP104,What is the diagnosis associated with the respiratory auscultation findings?,Asthma
+EP104,What type of sound is heard during the respiratory auscultation?,Expiratory Wheezes
+EP104,Where is the abnormal sound located in the respiratory system?,Posterior Lower Upper
+EP87,What is the diagnosis based on the auscultation findings?,Normal
+EP87,What type of sound is heard during auscultation?,Normal
+EP87,Where is the location of the auscultation finding?,Posterior Right Middle
+EP83,What type of respiratory sound is present?,Normal
+EP83,Where is the location of the respiratory sound?,Anterior Right Upper
+EP83,What is the diagnosis related to the respiratory findings?,Normal
+EP59,What condition is indicated by the presence of crepitations in the posterior right lower lung field?,Heart failure
+EP59,Where are crepitations found in a patient with heart failure?,Posterior right lower lung field
+EP59,What type of sound is associated with heart failure in the posterior right lower lung field?,Crepitations
+DP78,What is the diagnosis?,Asthma
+DP78,What type of sound is heard?,Expiratory Wheezes
+DP78,Where is the sound located?,Posterior Right Middle
+EP19,What condition is diagnosed?,Heart failure
+EP19,What type of respiratory sound is heard?,Crackles
+EP19,Where is the sound located?,Posterior Right Upper
+DP2,What condition has been diagnosed?,Asthma
+DP2,What type of respiratory sound is heard?,Expiratory Wheezes
+DP2,Where is the respiratory sound located?,Posterior Lower Lower Right
+DP110,What respiratory condition is associated with expiratory wheezes in the posterior lower lobes?,COPD
+DP110,What type of breath sounds are heard in a patient with COPD?,Expiratory Wheezes
+DP110,Where are the expiratory wheezes most likely to be auscultated in a patient with COPD?,Posterior Lower Lobes
+EP33,What respiratory condition has been diagnosed?,Asthma
+EP33,What type of respiratory sound is associated with the diagnosed condition?,Expiratory Wheezes
+EP33,Where is the respiratory sound located?,Posterior Right Middle
+DP101,What is the diagnosed condition?,Asthma
+DP101,What type of sound is heard during auscultation?,Expiratory Wheezes
+DP101,Where is the location of the sound?,Posterior Lower Middle
+DP12,What is the diagnosis?,Asthma
+DP12,What is the type of respiratory sound heard?,Expiratory Wheezes
+DP12,Where is the respiratory sound located?,Posterior Lower Lower
+DP62,What condition is associated with expiratory wheezes heard in the posterior lower middle lung fields?,COPD
+DP62,Where are the expiratory wheezes located in a patient with COPD?,Posterior Lower Middle
+DP62,What type of lung sounds might you hear in a patient with COPD?,Expiratory Wheezes
+BP94,What is the diagnosis?,Normal
+BP94,What type of sound is heard?,Normal
+BP94,Where is the sound located?,Posterior Lower Lower
+BP109,What type of respiratory sound was identified?,Normal
+BP109,Where was the auscultation performed?,Posterior Lower Middle
+BP109,What is the diagnosis based on the auscultation?,Normal
+DP59,What is the diagnosis associated with the respiratory auscultation findings?,Heart failure
+DP59,What is the type of sound heard during auscultation?,Crepitations
+DP59,Where is the abnormal sound located?,Posterior Right Lower
+EP16,What condition has been diagnosed?,Heart failure
+EP16,What type of sound was heard during auscultation?,Crackles
+EP16,Where was the abnormal sound located?,Posterior Right Upper
+DP7,What conditions are indicated by the auscultation findings?,Heart Failure and COPD
+DP7,What type of sounds are heard during inspiration?,Inspiratory Crackles
+DP7,What type of sounds are heard during expiration?,Expiratory Wheezes
+DP7,Where are these respiratory sounds located?,Posterior Lower Right
+BP4,What condition was diagnosed?,Heart Failure + Lung Fibrosis
+BP4,What type of sound is heard upon auscultation?,Inspiratory Crackles
+BP4,Where is the location of the abnormal respiratory sound?,Posterior Lower Right
+DP4,What condition is associated with the finding of inspiratory crackles in the posterior lower right lung?,Heart Failure + Lung Fibrosis
+DP4,What type of sound is indicative in a patient suffering from heart failure and lung fibrosis?,Inspiratory Crackles
+DP4,In which location were the inspiratory crackles detected in the patient with heart failure and lung fibrosis?,Posterior Lower Right
+BP107,What respiratory condition is indicated?,Asthma
+BP107,What type of sound is associated with this condition?,Expiratory Wheezes
+BP107,Where is the sound located?,Posterior Lower Upper
+DP25,What condition is being evaluated?,COPD
+DP25,What type of respiratory sound is heard?,Expiratory Wheezes
+DP25,Where is the sound located?,Posterior Lower Lower
+EP46,What condition is indicated by the respiratory auscultation findings?,Asthma
+EP46,Which type of sound is associated with this condition?,Expiratory Wheezes
+EP46,Where are the sounds heard in the lungs?,Posterior Lower Upper
+BP15,What is the diagnosis?,Asthma
+BP15,What type of sound is heard?,Expiratory Wheezes
+BP15,Where is the sound located?,Posterior Right Upper
+EP50,What is the diagnosis from the auscultation findings?,Normal
+EP50,What type of sound was heard during the auscultation?,Normal
+EP50,Where was the sound located?,Posterior Right Lower
+DP80,What is the diagnosis based on the auscultation findings?,Asthma
+DP80,What type of sound is heard in the respiratory auscultation?,Expiratory Wheezes
+DP80,Where is the location of the sound heard during auscultation?,Anterior Lower Upper
+DP61,What condition is suggested by expiratory wheezes in the posterior right lower lung?,Chronic Obstructive Pulmonary Disease (COPD).
+DP61,Where are the wheezes located in a patient with COPD?,Posterior right lower lung.
+DP61,What type of abnormal breath sound is associated with COPD in this case?,Expiratory wheezes.
+DP6,What condition was diagnosed?,Plueral Effusion
+DP6,What type of sound was heard during auscultation?,Inspiratory Crackles B
+DP6,Where was the sound located?,Posterior Lower Right
+BP8,What type of respiratory condition is diagnosed?,Pleural Effusion
+BP8,What type of auscultation sound is heard?,Inspiratory Crackles B
+BP8,Where is the auscultation sound located?,Posterior Lower Lower
+DP26,What is the diagnosed condition?,Lung Fibrosis
+DP26,What type of sound is heard during auscultation?,Crepitations
+DP26,Where is the sound located?,Posterior
+BP68,What condition is suggested by expiratory wheezes in the posterior right lower lung?,Asthma
+BP68,What type of lung sound is typically associated with asthma?,Expiratory Wheezes
+BP68,Where were the expiratory wheezes heard in the patient with asthma?,Posterior Right Lower
+EP85,What diagnosis is indicated by the respiratory auscultation findings?,Normal
+EP85,What type of respiratory sound was heard?,Normal
+EP85,Where was the respiratory sound located?,Anterior Right Upper
+DP30,What is the diagnosis from the respiratory auscultation findings?,Normal
+DP30,What type of sound was heard during the respiratory auscultation?,Normal
+DP30,Where was the sound located during the respiratory auscultation?,Posterior Right Middle
+BP79,What condition is associated with expiratory wheezes auscultated in the anterior right upper chest?,Asthma
+BP79,Where are the expiratory wheezes primarily heard in a patient with asthma?,Anterior Right Upper
+BP79,What type of sound is typically heard during expiration in a patient diagnosed with asthma?,Expiratory Wheezes
+EP6,What type of sound is associated with the pleural effusion?,Inspiratory Crackles B
+EP6,Where is the pleural effusion located?,Posterior Lower Right
+EP6,What condition is characterized by inspiratory crackles heard in the posterior lower right lung?,Plueral Effusion
+EP71,What is the diagnosis based on the respiratory auscultation?,Normal
+EP71,What type of sound is heard during the auscultation?,Normal
+EP71,Where is the sound located?,Posterior Right Upper
+EP109,What type of respiratory sounds were heard during auscultation?,Normal
+EP109,Where were the respiratory sounds evaluated?,Posterior Lower Middle
+EP109,What is the final interpretation based on the respiratory sounds?,Normal
+EP47,What condition is indicated by the auscultation findings?,Asthma
+EP47,What type of breath sound is associated with the condition mentioned?,Expiratory Wheezes
+EP47,Where is the abnormal breath sound most prominently heard?,Posterior Lower Middle
+EP4,What condition is suggested by inspiratory crackles heard in the posterior lower right region?,The condition suggested by inspiratory crackles heard in the posterior lower right region is heart failure combined with lung fibrosis.
+EP4,Where are the inspiratory crackles located in the patient diagnosed with heart failure and lung fibrosis?,The inspiratory crackles are located in the posterior lower right region.
+EP4,What auscultation sound type is associated with heart failure and lung fibrosis in the provided finding?,The auscultation sound type associated with heart failure and lung fibrosis in the provided finding is inspiratory crackles.
+EP22,What is the diagnosis?,BRON
+EP22,What type of sound is heard upon auscultation?,Crepitations
+EP22,Where is the abnormal sound located?,Posterior Right Upper
+DP108,What condition is indicated?,COPD
+DP108,What type of sound is heard?,Expiratory Wheezes
+DP108,Where is the sound located?,Posterior Right Lower
+BP84,What is the diagnosis?,Normal
+BP84,What type of sound is heard?,Normal
+BP84,Where is the sound located?,Anterior Right Upper
+EP99,What is the diagnosis based on the respiratory auscultation findings?,Normal
+EP99,What type of sound was heard during auscultation?,Normal
+EP99,Where was the auscultation performed?,Posterior Right Middle
+DP35,What is the diagnosed condition?,Asthma
+DP35,What type of sound is heard?,Expiratory Wheezes
+DP35,Where is the sound located?,Anterior Right Lower
+BP59,What condition is indicated by the auscultation findings?,Heart failure
+BP59,What type of sound is heard during auscultation?,Crepitations
+BP59,Where is the abnormal sound located?,Posterior Right Lower
+EP3,What respiratory condition is indicated by the auscultation findings?,Asthma
+EP3,What type of sound is heard during auscultation?,Inspiratory Expiratory Wheezes
+EP3,Where on the body was the abnormal sound located?,Posterior Lower Lower Right
+EP81,What was the diagnosis based on the respiratory auscultation findings?,Normal
+EP81,What type of sound was heard during the respiratory auscultation?,Normal
+EP81,Where was the sound heard during the respiratory auscultation?,Posterior Lower Upper
+DP36,What condition is diagnosed?,Pneumonia
+DP36,What type of sound is heard during auscultation?,Crepitations
+DP36,Where is the abnormal sound located?,Posterior Right Middle
+BP50,What is the diagnosis based on the respiratory auscultation findings?,Normal
+BP50,What type of sound was heard during the respiratory auscultation?,Normal
+BP50,Where was the normal respiratory sound heard?,Posterior Right Lower
+BP49,What type of breath sounds are heard?,Normal
+BP49,What is the location of the auscultated sound?,Posterior Right Middle
+BP49,Was there any abnormality detected?,"No, the breath sounds are normal."
+EP37,What condition is indicated?,Pneumonia
+EP37,What type of respiratory sound is heard?,Crepitations
+EP37,Where is the sound located?,Anterior Right Lower
+DP40,What diagnosis is associated with crepitations in the anterior right middle region?,Heart failure
+DP40,In which region are crepitations noted in the case of heart failure?,Anterior Right Middle
+DP40,What type of respiratory sound is associated with heart failure in the anterior right middle region?,Crepitations
+BP53,What is the diagnosis?,Asthma
+BP53,What type of sound is heard?,Expiratory Wheezes
+BP53,Where is the sound located?,Posterior Right Middle
+EP7,What type of sound is associated with heart failure and COPD in this patient?,Inspiratory Crackles and Expiratory Wheezes
+EP7,Where is the sound located in this patient?,Posterior Lower Right
+EP7,What conditions does this patient have that are causing the respiratory sounds?,Heart Failure and COPD
+EP77,What is the diagnosis?,Asthma
+EP77,What type of sound is heard?,Expiratory Wheezes
+EP77,Where is the sound located?,Anterior Right Lower
+EP38,What condition is indicated by expiratory wheezes in the posterior right middle lung area?,Asthma
+EP38,What type of breath sound is associated with asthma in the posterior right middle lung field?,Expiratory Wheezes
+EP38,Where are the expiratory wheezes located in a patient with asthma?,Posterior Right Middle
+DP98,What is the diagnosis based on the respiratory auscultation findings?,Normal
+DP98,What type of sound is heard during the respiratory examination?,Normal
+DP98,Where was the normal sound detected during the respiratory examination?,Posterior Lower Lower
+EP107,What condition is associated with the respiratory findings?,Asthma
+EP107,What type of respiratory sound was heard?,Expiratory Wheezes
+EP107,Where were the wheezes located?,Posterior Lower Upper
+EP9,What is the diagnosis?,Asthma
+EP9,What type of sound is heard?,Expiratory Wheezes
+EP9,Where was the sound located?,Posterior Right Lower
+DP44,What condition does the patient have?,Asthma
+DP44,What type of breath sound is heard in the patient?,Expiratory Wheezes
+DP44,Where was the abnormal breath sound located?,Posterior Right Upper
+DP20,What conditions are indicated by the respiratory auscultation findings?,Asthma and lung fibrosis
+DP20,What type of sound was heard during the respiratory auscultation?,Crackles
+DP20,Where were the crackles located during the respiratory auscultation?,Anterior Right Middle
+EP5,What type of sounds are heard in a patient with Heart Failure and COPD?,Inspiratory crackles and expiratory wheezes.
+EP5,Where are the abnormal lung sounds located in this patient?,Posterior lower right.
+EP5,Which specific conditions are associated with the identified respiratory sounds?,Heart Failure and COPD.
+BP96,What type of sound is heard?,Normal
+BP96,Where is the sound located?,Posterior Right Lower
+BP96,What is the diagnosis?,Normal
+EP103,What is the type of sound heard?,Normal
+EP103,Where is the sound located?,Posterior Right Upper
+EP103,What is the diagnosis?,Normal
+EP89,What type of sound is associated with the condition?,Normal
+EP89,Where is the sound heard?,Posterior Lower Middle
+EP89,What is the diagnosis?,Normal
+DP111,What is the diagnosed condition?,COPD
+DP111,What type of respiratory sound is heard?,Expiratory Wheezes
+DP111,Where is the sound located?,Posterior Right Lower
+EP86,What is the diagnosis based on the auscultation findings?,Normal
+EP86,What type of sound was heard during auscultation?,Normal
+EP86,Where was the sound auscultated?,Posterior Right Upper
+EP92,What is the type of sound heard on auscultation?,Normal
+EP92,What is the diagnosis based on the respiratory auscultation?,Normal
+EP92,Where was the normal sound heard during the auscultation?,Posterior Lower Lower
+BP24,What condition is associated with the auscultation finding of crepitations in the posterior right lower lung?,Heart failure
+BP24,In which lung location are crepitations heard with heart failure?,Posterior right lower
+BP24,Which sound type is associated with heart failure in the respiratory auscultation findings?,Crepitations
+BP28,What respiratory condition is indicated by the auscultation findings?,Bronchitis (BRON).
+BP28,What type of sound was heard during auscultation?,Crepitations.
+BP28,Where was the abnormal sound located?,Posterior Lower Upper.
+DP14,What condition is indicated by the findings?,Heart Failure
+DP14,What type of respiratory sound is observed?,Crackles
+DP14,Where is the abnormal sound located?,Anterior Right Middle
+DP24,What condition is indicated by the presence of crepitations?,Heart failure
+DP24,Where are the crepitations located in the patient with heart failure?,Posterior Right Lower
+DP24,What type of auscultation sound is associated with heart failure in this patient?,Crepitations
+BP40,What is the diagnosis?,Heart failure
+BP40,What type of respiratory sound was heard?,Crepitations
+BP40,Where were the crepitations heard?,Anterior Right Middle
+DP102,What is the diagnosis based on the findings?,Normal
+DP102,What is the type of sound heard during auscultation?,Normal
+DP102,Where was the auscultation performed?,Posterior Lower Lower
+BP93,What is the diagnosis?,Normal
+BP93,What type of sound was heard?,Normal
+BP93,Where was the auscultation performed?,Posterior Right Middle
+BP10,What condition is indicated by the respiratory auscultation findings?,Asthma
+BP10,What type of breath sound is typically associated with this diagnosis?,Expiratory Wheezes
+BP10,Where is the abnormal breath sound located?,Posterior Right Upper
+BP32,What is the diagnosis?,Normal
+BP32,What type of sound was heard?,Normal
+BP32,Where was the sound located?,Anterior Right Lower
+EP68,What respiratory condition is diagnosed?,Asthma
+EP68,What type of respiratory sound is heard?,Expiratory Wheezes
+EP68,Where is the sound located?,Posterior Right Lower
+DP65,What respiratory condition is associated with expiratory wheezes in the posterior right lower lung?,Asthma
+DP65,What type of lung sound is indicative of asthma in the given case?,Expiratory Wheezes
+DP65,In which lung region were the expiratory wheezes noted in the patient with asthma?,Posterior Right Lower
+EP24,What condition is indicated by the auscultation findings?,Heart failure
+EP24,What type of sound is heard during auscultation?,Crepitations
+EP24,Where is the sound located?,Posterior Right Lower
+EP96,What is the diagnosis?,Normal
+EP96,What type of sound was auscultated?,Normal
+EP96,Where was the sound auscultated?,Posterior Right Lower
+EP40,What is the condition associated with crepitations in the anterior right middle area?,Heart failure.
+EP40,What type of sound is heard in a patient diagnosed with heart failure?,Crepitations.
+EP40,Where are the crepitations located in a patient with heart failure?,Anterior right middle.
+DP73,What is the diagnosis based on the auscultation?,Normal
+DP73,What type of respiratory sound was heard?,Normal
+DP73,Where was the respiratory sound auscultated?,Posterior Lower Lower
+BP48,What type of breath sound is characterized in the posterior lower and upper regions?,Normal
+BP48,Where were the normal breath sounds detected?,Posterior lower and upper regions
+BP48,What is the diagnosis based on the auscultation findings?,Normal
+BP103,What type of respiratory sound is noted?,Normal
+BP103,Where is the respiratory sound located?,Posterior Right Upper
+BP103,What is the diagnosis?,Normal
+EP41,What is the diagnosis?,Pneumonia
+EP41,What type of sound was heard during the respiratory auscultation?,Crepitations
+EP41,Where was the sound located?,Posterior Right Middle
+DP11,What is the likely diagnosis?,Heart Failure
+DP11,What type of sound is heard during auscultation?,Crackles
+DP11,Where are the sounds located?,Posterior Lower Lower
+DP82,What was the diagnosis?,Normal
+DP82,What type of sound was heard during auscultation?,Normal
+DP82,Where was the sound heard?,Posterior Lower Upper
+EP64,What condition is associated with the auscultation finding?,Asthma
+EP64,What type of respiratory sound is most likely to be heard?,Expiratory Wheezes
+EP64,Where is the respiratory sound located?,Posterior Lower Upper
+BP92,What type of sound is associated with the given condition?,Normal
+BP92,Where is the sound located?,Posterior Lower Lower
+BP92,What is the diagnosis?,Normal
+EP43,What respiratory condition is indicated in the findings?,Asthma
+EP43,What type of sound was heard during auscultation?,Expiratory Wheezes
+EP43,Where was the sound located?,Posterior Lower Middle
+EP55,What diagnosis is suggested by expiratory wheezes?,Asthma.
+EP55,Where were the expiratory wheezes located?,Posterior Right Upper.
+EP55,Which type of respiratory sound is associated with asthma in this case?,Expiratory wheezes.
+DP56,What is the diagnosed condition?,Asthma
+DP56,What type of respiratory sounds are heard?,Expiratory Wheezes
+DP56,Where were the respiratory sounds located?,Posterior Right Middle
+BP111,What is the diagnosis?,COPD
+BP111,What type of sound is heard?,Expiratory Wheezes
+BP111,Where is the sound located?,Posterior Right Lower
+EP91,What is the diagnosis based on the respiratory auscultation findings?,Asthma
+EP91,What type of sound is associated with this condition?,Expiratory Wheezes
+EP91,Where is the sound located?,Posterior Right Upper
+BP41,What is the diagnosed condition?,Pneumonia
+BP41,What type of abnormal lung sound is associated with this condition?,Crepitations
+BP41,Where is the abnormal lung sound located?,Posterior Right Middle
+BP82,What is the diagnosis based on the respiratory auscultation findings?,Normal
+BP82,What type of sound is heard during respiratory auscultation?,Normal
+BP82,Where were the auscultation sounds heard?,Posterior Lower Upper
+DP48,What is the diagnosis?,Normal
+DP48,What type of sound is heard during auscultation?,Normal
+DP48,Where is the auscultation conducted?,Posterior Lower Upper
+BP73,What is the diagnosis based on the auscultation findings?,Normal
+BP73,What type of sound was heard during the auscultation?,Normal
+BP73,Where was the sound located during the auscultation?,Posterior Lower Lower
+DP66,What is the diagnosis associated with the auscultation finding?,Heart failure
+DP66,What type of sound was heard during auscultation?,Crepitations
+DP66,Where were the auscultation findings located?,Posterior Right Lower
+DP16,What condition is being indicated in the respiratory findings?,Heart failure
+DP16,What type of sound was heard during the respiratory auscultation?,Crackles
+DP16,Where was the abnormal sound located in the chest?,Posterior Right Upper
+EP66,What condition is associated with the respiratory auscultation findings?,Heart failure
+EP66,What type of sound was heard during the auscultation?,Crepitations
+EP66,Where was the abnormal sound located during the auscultation?,Posterior Right Lower
+DP22,Which respiratory condition is indicated?,Bronchitis.
+DP22,What type of sound is heard during auscultation?,Crepitations.
+DP22,Where is the abnormal sound located?,Posterior right upper lung.
+DP19,What condition is indicated by the auscultation findings?,Heart failure
+DP19,What type of sound was heard during auscultation?,Crackles
+DP19,Where was the abnormal sound located?,Posterior Right Upper
+DP8,What is the diagnosis?,Pleural Effusion
+DP8,What type of sound is associated with the diagnosis?,Inspiratory Crackles B
+DP8,Where is the sound located?,Posterior Lower Lower
+DP93,What is the diagnosis for the patient?,Normal
+DP93,What type of sound is heard?,Normal
+DP93,Where is the sound located?,Posterior Right Middle
+EP70,What type of sound is heard upon auscultation in the specified condition?,Normal
+EP70,Where was the auscultation sound located?,Posterior Lower Upper
+EP70,What is the diagnosis based on the auscultation findings?,Normal
+DP96,What is the diagnosis based on the auscultation findings?,Normal
+DP96,What type of sound was heard during auscultation?,Normal
+DP96,Where was the normal sound heard during auscultation?,Posterior Right Lower
+BP57,What condition is diagnosed?,COPD
+BP57,What type of sound is heard during auscultation?,Expiratory Wheezes
+BP57,Where is the abnormal sound located?,Posterior Right Lower
+BP6,What sound type is associated with the posterior lower right lung area?,Inspiratory Crackles B
+BP6,Which condition is associated with inspiratory crackles in the posterior lower right lung?,Pleural Effusion
+BP6,In which specific location are the inspiratory crackles heard in a patient with pleural effusion?,Posterior Lower Right
+BP69,What is the diagnosis?,Pneumonia
+BP69,What type of sound is heard?,Bronchial
+BP69,Where is the abnormal sound located?,Posterior Right Lower
+BP23,What diagnosis is associated with crepitations heard in the posterior right lower lung?,Lung Fibrosis
+BP23,Which sound type is heard in the posterior right lower lung in a case of lung fibrosis?,Crepitations
+BP23,"In the case of lung fibrosis, where are crepitations typically auscultated in this report?",Posterior Right Lower
+BP65,What is the respiratory condition associated with the auscultation finding?,Asthma
+BP65,What type of sound was auscultated?,Expiratory Wheezes
+BP65,Where was the auscultation sound heard?,Posterior Right Lower
+DP53,What condition is indicated by the respiratory auscultation findings?,Asthma
+DP53,What type of sound is observed in this case?,Expiratory Wheezes
+DP53,Where is the sound located in the patient's lungs?,Posterior Right Middle
+BP44,Which condition is diagnosed?,Asthma
+BP44,What type of sound is heard?,Expiratory Wheezes
+BP44,Where is the sound located?,Posterior Right Upper
+DP32,What is the diagnosis based on the auscultation findings?,Normal
+DP32,What type of sound was heard during respiratory auscultation?,Normal
+DP32,Where was the sound located during the respiratory auscultation?,Anterior Right Lower
+DP42,Which condition is associated with crepitations in the posterior lower lung fields?,Heart failure
+DP42,What type of lung sound is described in a patient diagnosed with heart failure?,Crepitations
+DP42,Where are the crepitations located in a patient with heart failure?,Posterior lower lower lung fields
+EP102,What is the diagnosis based on the respiratory auscultation findings?,Normal
+EP102,What type of sound was heard during the respiratory auscultation?,Normal
+EP102,Where was the sound located during the respiratory auscultation?,Posterior Lower Lower
+EP76,What is the diagnosis based on the auscultation findings?,Normal
+EP76,What type of sounds were heard during auscultation?,Normal
+EP76,Where was the auscultation conducted?,Anterior Lower Upper
+EP110,What is the diagnosis?,COPD
+EP110,What type of sound is heard?,Expiratory Wheezes
+EP110,Where is the sound located?,Posterior Lower Lower
+BP25,What condition is indicated by the auscultation findings?,COPD
+BP25,What type of lung sound is associated with the diagnosis?,Expiratory Wheezes
+BP25,Where was the abnormal lung sound detected?,Posterior Lower Lower
+DP92,What is the diagnosed condition?,Normal
+DP92,What type of sound is heard during auscultation?,Normal
+DP92,Where is the location of the auscultation?,Posterior Lower Lower
+BP56,What condition is associated with the auscultation findings?,Asthma
+BP56,What type of abnormal lung sound was identified?,Expiratory Wheezes
+BP56,Where was the abnormal lung sound located?,Posterior Right Middle
+EP23,What diagnosis is associated with the respiratory auscultation findings?,Lung Fibrosis
+EP23,What type of sound is heard in the respiratory auscultation findings?,Crepitations
+EP23,Where is the sound located according to the respiratory auscultation findings?,Posterior Right Lower
+EP88,What is the diagnosis for the auscultation finding?,Normal
+EP88,What type of sound is heard during the auscultation?,Normal
+EP88,Where is the sound located during the auscultation?,Anterior Right Upper
+EP95,What is the diagnosis based on the respiratory auscultation findings?,Normal
+EP95,What type of sound was observed during auscultation?,Normal
+EP95,Where was the sound observed?,Posterior Lower Middle
+DP103,What is the diagnosis based on respiratory auscultation?,Normal
+DP103,What type of sound was heard during auscultation?,Normal
+DP103,Where was the sound auscultated?,Posterior Right Upper
+DP23,What is the diagnosis?,Lung Fibrosis
+DP23,What type of sound is heard?,Crepitations
+DP23,Where is the location of the sound?,Posterior Right Lower
+EP8,What condition is indicated by the findings?,Pleural Effusion
+EP8,What type of sound is heard in this condition?,Inspiratory Crackles B
+EP8,Where is the location of the auscultation finding?,Posterior Lower Lower
+BP98,What is the diagnosis based on the auscultation findings?,Normal
+BP98,What type of sound is heard during auscultation?,Normal
+BP98,Where is the sound located?,Posterior Lower Lower
+DP10,What is the diagnosis?,Asthma
+DP10,What type of respiratory sound was heard?,Expiratory Wheezes
+DP10,Where was the respiratory sound located?,Posterior Right Upper
+BP62,What is the patient's diagnosis?,COPD
+BP62,What type of respiratory sound is present?,Expiratory Wheezes
+BP62,Where are the respiratory sounds located?,Posterior Lower Middle
+EP61,What is the diagnosis?,COPD
+EP61,What type of respiratory sound is present?,Expiratory Wheezes
+EP61,Where were the wheezes heard?,Posterior Right Lower
+EP2,What is the diagnosis associated with the respiratory auscultation finding?,Asthma
+EP2,What type of sound is detected during auscultation?,Expiratory Wheezes
+EP2,Where is the sound located in the respiratory system?,Posterior Lower Lower Right
+EP101,What is the diagnosis?,Asthma
+EP101,What type of sound is noted?,Expiratory Wheezes
+EP101,Where is the sound located?,Posterior Lower Middle
+BP66,What diagnosis is associated with the respiratory sounds?,Heart failure
+BP66,What type of respiratory sound was heard?,Crepitations
+BP66,Where were the respiratory sounds located?,Posterior Right Lower
+BP102,What is the diagnosis?,Normal
+BP102,What type of sound is heard?,Normal
+BP102,Where is the sound located?,Posterior Lower Lower
+BP80,What condition is indicated by the respiratory findings?,Asthma
+BP80,What type of respiratory sound is present in this condition?,Expiratory Wheezes
+BP80,Where is the abnormal respiratory sound located?,Anterior Lower Upper
+BP42,What is the diagnosis associated with the respiratory auscultation findings?,Heart failure
+BP42,What type of sound is heard during auscultation?,Crepitations
+BP42,Where is the sound heard during auscultation?,Posterior Lower Lower
+DP15,What respiratory condition is indicated?,Asthma
+DP15,What type of sound is associated with the condition?,Expiratory Wheezes
+DP15,Where is the sound located?,Posterior Right Upper
+BP5,What condition is indicated by the patient's diagnosis?,Heart Failure and COPD.
+BP5,What type of sounds were identified during auscultation?,Inspiratory Crackles and Expiratory Wheezes.
+BP5,Where were the auscultation sounds heard?,Posterior Lower Right.
+DP84,What is the diagnosis?,Normal
+DP84,What type of sound is heard?,Normal
+DP84,Where is the sound located?,Anterior Right Upper
+EP105,What is the diagnosis?,Lung Fibrosis
+EP105,What type of sound is heard?,Crepitations
+EP105,Where is the sound located?,Anterior Upper Right
+EP21,What is the diagnosis given the respiratory auscultation findings?,BRON
+EP21,What sound type is noted in the auscultation?,Crepitations
+EP21,Where are the auscultation findings localized?,Posterior Right Lower
+EP42,What respiratory condition does the patient have?,Heart failure
+EP42,What type of sound is heard during auscultation?,Crepitations
+EP42,Where are the abnormal sounds located?,Posterior Lower Lower
+BP37,What respiratory condition is reported?,Pneumonia
+BP37,What type of sound is heard?,Crepitations
+BP37,Where is the abnormal sound located?,Anterior Right Lower
+EP75,What is the diagnosis?,Normal
+EP75,What type of sound was heard?,Normal
+EP75,Where was the sound located?,Posterior Lower Upper
+BP63,What is the diagnosis?,COPD
+BP63,What type of sound is heard during auscultation?,Expiratory Wheezes
+BP63,Where is the sound located?,Posterior Right Lower
+DP105,What condition is indicated by the respiratory findings?,Lung Fibrosis
+DP105,What type of sound was heard during auscultation?,Crepitations
+DP105,Where was the abnormal sound located?,Anterior Upper Right
+EP62,What type of sound is associated with the condition?,Expiratory Wheezes
+EP62,Where is the sound located?,Posterior Lower Middle
+EP62,What is the diagnosed condition?,COPD
+DP49,What is the diagnosis based on the auscultation findings?,Normal
+DP49,What type of sound was heard during auscultation?,Normal
+DP49,Where was the sound heard?,Posterior Right Middle
+DP68,What condition is indicated by the findings?,Asthma
+DP68,What type of sound is heard during respiratory auscultation?,Expiratory Wheezes
+DP68,Where is the abnormal sound located?,Posterior Right Lower
+EP65,What is the diagnosed condition?,Asthma
+EP65,What type of respiratory sound is observed?,Expiratory Wheezes
+EP65,Where is the respiratory sound located?,Posterior Right Lower
+BP30,What is the diagnosis for the patient's respiratory condition?,Normal
+BP30,What type of sound is heard during the respiratory auscultation?,Normal
+BP30,Where is the location of the sound heard?,Posterior Right Middle
+EP25,What is the diagnosis?,COPD
+EP25,What type of sound is heard?,Expiratory Wheezes
+EP25,Where is the sound located?,Posterior Lower Lower
+BP78,What is the diagnosis?,Asthma
+BP78,What type of sound is heard upon auscultation?,Expiratory Wheezes
+BP78,Where is the abnormal sound located?,Posterior Right Middle
+DP109,What is the diagnosis based on the auscultation findings?,Normal
+DP109,What type of sound was detected during auscultation?,Normal
+DP109,Where was the sound located during auscultation?,Posterior Lower Middle
+BP12,What is the diagnosis?,Asthma
+BP12,What type of respiratory sound is associated with this diagnosis?,Expiratory Wheezes
+BP12,Where was the abnormal respiratory sound heard?,Posterior Lower Lower
+DP50,What is the diagnosis based on the respiratory findings?,Normal
+DP50,What type of sound was heard during auscultation?,Normal
+DP50,Where was the sound located?,Posterior Right Lower
+EP72,What is the diagnosis?,Normal
+EP72,What is the sound type?,Normal
+EP72,Where is the auscultation location?,Posterior Right Upper
+EP97,What is the diagnosis?,Asthma
+EP97,What type of sound is heard?,Expiratory Wheezes
+EP97,Where is the sound located?,Posterior Right Upper
+EP58,What is the diagnosis?,Asthma
+EP58,What type of sound is heard?,Expiratory Wheezes
+EP58,Where is the sound located?,Posterior Lower Middle
+EP51,What is the diagnosis for the respiratory condition?,Normal
+EP51,What type of respiratory sound was identified?,Normal
+EP51,Where on the body was the respiratory sound auscultated?,Posterior Lower Middle
+BP108,What condition is indicated in the findings?,COPD
+BP108,What type of sound is heard during auscultation?,Expiratory Wheezes
+BP108,Where is the abnormal sound located?,Posterior Right Lower
+BP35,What is the diagnosis?,Asthma
+BP35,What type of respiratory sound is heard?,Expiratory Wheezes
+BP35,Where is the sound located?,Anterior Right Lower
+EP14,What condition is indicated by the auscultation findings?,Heart Failure
+EP14,What type of sound is detected in the anterior right middle lung region?,Crackles
+EP14,Where specifically are the crackles located?,Anterior Right Middle
+EP74,What type of breath sounds are heard?,Normal
+EP74,Where are the breath sounds auscultated?,Posterior Right Middle
+EP74,What is the diagnosis based on the auscultation?,Normal
+EP27,What respiratory condition corresponds with expiratory wheezes heard in the posterior right middle lung?,Asthma
+EP27,What type of sound is typically associated with asthma during auscultation?,Expiratory Wheezes
+EP27,Which lung region is affected in this asthma case based on the auscultation findings?,Posterior Right Middle
+BP2,What is the condition diagnosed?,Asthma
+BP2,What type of respiratory sound is present?,Expiratory Wheezes
+BP2,Where is the sound located?,Posterior Lower Lower Right
+DP94,What is the diagnosis given the auscultation findings?,Normal
+DP94,What type of sound was heard during auscultation?,Normal
+DP94,Where was the sound located during auscultation?,Posterior Lower Lower
+BP101,What condition is suggested by the auscultation findings?,Asthma
+BP101,What type of sound was heard during auscultation?,Expiratory Wheezes
+BP101,Where was the abnormal sound located?,Posterior Lower Middle
+EP31,What is the diagnosed condition based on the auscultation findings?,Normal
+EP31,What type of sound is heard during auscultation?,Normal
+EP31,Where is the location of the auscultation?,Posterior Lower Middle
+BP105,What condition is associated with crepitations in the anterior upper right lung?,Lung Fibrosis.
+BP105,Where are crepitations heard in a case of lung fibrosis?,Anterior Upper Right.
+BP105,What type of auscultatory sound is indicative of lung fibrosis in the upper right section?,Crepitations.
+DP79,What condition is present?,Asthma
+DP79,What type of sound is heard?,Expiratory Wheezes
+DP79,Where is the sound located?,Anterior Right Upper
+DP69,What is the diagnosis associated with this auscultation finding?,Pneumonia
+DP69,What type of sound is heard in this condition?,Bronchial
+DP69,Where is the sound located?,Posterior Right Lower
+BP13,What condition is diagnosed?,Heart Failure
+BP13,What type of sound is heard during auscultation?,Crackles
+BP13,Where is the sound most prominent?,Posterior Lower
+DP107,What is the diagnosis?,Asthma
+DP107,What type of sound was heard during auscultation?,Expiratory Wheezes
+DP107,Where was the abnormal sound located?,Posterior Lower Upper
+EP11,What condition is associated with the auscultation findings?,Heart Failure
+EP11,What type of sound is heard upon auscultation?,Crackles
+EP11,Where is the abnormal sound located?,Posterior Lower Lower

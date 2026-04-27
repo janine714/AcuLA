@@ -1,0 +1,725 @@
+Patient_Num,Record_Annotation,Event_Type,disease
+65107666,Normal,Normal,Asthma
+40890405,Normal,Normal,Pneumonia (non-severe)
+40512331,Normal,Normal,Pneumonia (non-severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+41249093,Normal,Normal,Asthma
+64779933,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+65106469,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+65121853,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+65109516,Discontinuous Adventitious Sounds,Coarse Crackle,Pneumonia (severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+65071184,Normal,Normal,Bronchitis
+65005529,Normal,Normal,Pneumonia (non-severe)
+64601539,Normal,Normal,Asthma
+65106469,Normal,Normal,Pneumonia (severe)
+64714172,Normal,Normal,Pneumonia (non-severe)
+41209060,Normal,Normal,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+63658468,Normal,Normal,Pneumonia (non-severe)
+65114631,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+40938576,Normal,Normal,Pneumonia (non-severe)
+65071184,Normal,Normal,Bronchitis
+41249093,Normal,Normal,Asthma
+40512331,Normal,Normal,Pneumonia (non-severe)
+41249093,Normal,Normal,Asthma
+40512331,Normal,Normal,Pneumonia (non-severe)
+65107404,Normal,Normal,Asthma
+40512331,Normal,Normal,Pneumonia (non-severe)
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65101997,Normal,Normal,Pneumonia (non-severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+65114631,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+65114631,Normal,Normal,Pneumonia (severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+64585803,Normal,Normal,Asthma
+41243139,Normal,Normal,Pneumonia (non-severe)
+65071184,Normal,Normal,Bronchitis
+65109516,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+64585803,Normal,Normal,Asthma
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65109516,Normal,Normal,Pneumonia (severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+65038439,Normal,Normal,Bronchitis
+41101309,Normal,Normal,Pneumonia (non-severe)
+64714172,Normal,Normal,Pneumonia (non-severe)
+63902360,Normal,Normal,Asthma
+41225759,Normal,Normal,Pneumonia (non-severe)
+40938576,Normal,Normal,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65071184,Normal,Normal,Bronchitis
+41249093,Discontinuous Adventitious Sounds,Fine Crackle,Asthma
+40890405,Normal,Normal,Pneumonia (non-severe)
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65114720,Continuous Adventitious Sounds,Wheeze,Asthma
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65121853,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+64714172,Normal,Normal,Pneumonia (non-severe)
+40993807,Normal,Normal,Pneumonia (non-severe)
+41209060,Normal,Normal,Pneumonia (non-severe)
+41225759,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41233462,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+64601539,Normal,Normal,Asthma
+65106469,Normal,Normal,Pneumonia (severe)
+65005529,Normal,Normal,Pneumonia (non-severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+41223618,Normal,Normal,Other respiratory diseases
+65038439,Normal,Normal,Bronchitis
+41249093,Normal,Normal,Asthma
+65107404,Normal,Normal,Asthma
+40890405,Normal,Normal,Pneumonia (non-severe)
+65109516,Normal,Normal,Pneumonia (severe)
+65107404,Normal,Normal,Asthma
+63658468,Normal,Normal,Pneumonia (non-severe)
+65050748,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41092434,Normal,Normal,Asthma
+65114385,Normal,Normal,Bronchitis
+65107666,Normal,Normal,Asthma
+65107404,Normal,Normal,Asthma
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+65107404,Normal,Normal,Asthma
+63658468,Normal,Normal,Pneumonia (non-severe)
+65109516,Normal,Normal,Pneumonia (severe)
+65050748,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+41092434,Normal,Normal,Asthma
+40888395,Normal,Normal,Pneumonia (non-severe)
+65107666,Normal,Normal,Asthma
+65121853,Normal,Normal,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+63902360,Normal,Normal,Asthma
+65038439,Normal,Normal,Bronchitis
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65114631,Normal,Normal,Pneumonia (severe)
+65071184,Normal,Normal,Bronchitis
+64714172,Normal,Normal,Pneumonia (non-severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+65005529,Normal,Normal,Pneumonia (non-severe)
+64601539,Normal,Normal,Asthma
+41101309,Normal,Normal,Pneumonia (non-severe)
+41031554,Normal,Normal,Control Group
+65121853,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65114385,Normal,Normal,Bronchitis
+65049153,Normal,Normal,Other respiratory diseases
+40890405,Normal,Normal,Pneumonia (non-severe)
+65114385,Normal,Normal,Bronchitis
+65109516,Normal,Normal,Pneumonia (severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41031554,Normal,Normal,Control Group
+65038439,Discontinuous Adventitious Sounds,Coarse Crackle,Bronchitis
+41114600,Normal,Normal,Pneumonia (non-severe)
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41225759,Continuous & Discontinuous Adventitious Sounds,Wheeze+Crackle,Pneumonia (non-severe)
+65114631,Normal,Normal,Pneumonia (severe)
+65114631,Normal,Normal,Pneumonia (severe)
+65106469,Normal,Normal,Pneumonia (severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+63524070,Normal,Normal,Pneumonia (non-severe)
+65121853,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65121853,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+65114631,Normal,Normal,Pneumonia (severe)
+65106469,Normal,Normal,Pneumonia (severe)
+65106469,Normal,Normal,Pneumonia (severe)
+41225759,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41225759,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65038439,Normal,Normal,Bronchitis
+65071184,Normal,Normal,Bronchitis
+41209060,Normal,Normal,Pneumonia (non-severe)
+64585803,Normal,Normal,Asthma
+65038439,Normal,Normal,Bronchitis
+65115243,Normal,Normal,Pneumonia (non-severe)
+64585803,Normal,Normal,Asthma
+41243139,Normal,Normal,Pneumonia (non-severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+65109516,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+64585803,Normal,Normal,Asthma
+65052443,Normal,Normal,Pneumonia (non-severe)
+41031554,Normal,Normal,Control Group
+64585803,Normal,Normal,Asthma
+65115243,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65038439,Normal,Normal,Bronchitis
+65107404,Normal,Normal,Asthma
+40970076,Normal,Normal,Control Group
+65071184,Normal,Normal,Bronchitis
+65005529,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65106469,Normal,Normal,Pneumonia (severe)
+65114720,Normal,Normal,Asthma
+64714172,Normal,Normal,Pneumonia (non-severe)
+65121853,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65114720,Continuous Adventitious Sounds,Wheeze,Asthma
+65106469,Normal,Normal,Pneumonia (severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41249093,Normal,Normal,Asthma
+65107666,Normal,Normal,Asthma
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+64585803,Normal,Normal,Asthma
+65050748,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65052443,Normal,Normal,Pneumonia (non-severe)
+64585803,Normal,Normal,Asthma
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+65109516,Normal,Normal,Pneumonia (severe)
+65107404,Normal,Normal,Asthma
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41243139,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64585803,Normal,Normal,Asthma
+65118898,Normal,Normal,Pneumonia (non-severe)
+65115243,Normal,Normal,Pneumonia (non-severe)
+65107404,Normal,Normal,Asthma
+65109516,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+64714172,Normal,Normal,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+63658468,Normal,Normal,Pneumonia (non-severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+41031554,Normal,Normal,Control Group
+65049153,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65114720,Continuous Adventitious Sounds,Wheeze,Asthma
+63658468,Normal,Normal,Pneumonia (non-severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+40512331,Normal,Normal,Pneumonia (non-severe)
+64779933,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+65109516,Normal,Normal,Pneumonia (severe)
+41249093,Normal,Normal,Asthma
+65121853,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41225759,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65038439,Normal,Normal,Bronchitis
+64601539,Normal,Normal,Asthma
+40938576,Normal,Normal,Pneumonia (non-severe)
+41209060,Normal,Normal,Pneumonia (non-severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+41209060,Normal,Normal,Pneumonia (non-severe)
+65106469,Normal,Normal,Pneumonia (severe)
+65114385,Normal,Normal,Bronchitis
+41031554,Normal,Normal,Control Group
+63658468,Normal,Normal,Pneumonia (non-severe)
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+65114720,Continuous Adventitious Sounds,Wheeze,Asthma
+63658468,Normal,Normal,Pneumonia (non-severe)
+65114720,Continuous Adventitious Sounds,Wheeze,Asthma
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65106469,Normal,Normal,Pneumonia (severe)
+65107666,Normal,Normal,Asthma
+41031554,Normal,Normal,Control Group
+41225759,Normal,Normal,Pneumonia (non-severe)
+65121853,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65107666,Normal,Normal,Asthma
+41092434,Normal,Normal,Asthma
+40970076,Normal,Normal,Control Group
+65107666,Normal,Normal,Asthma
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65106469,Normal,Normal,Pneumonia (severe)
+65005529,Normal,Normal,Pneumonia (non-severe)
+65121853,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65038439,Normal,Normal,Bronchitis
+65101997,Normal,Normal,Pneumonia (non-severe)
+65114631,Normal,Normal,Pneumonia (severe)
+64601539,Normal,Normal,Asthma
+65106469,Normal,Normal,Pneumonia (severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65121853,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65107666,Normal,Normal,Asthma
+40993807,Normal,Normal,Pneumonia (non-severe)
+65107666,Normal,Normal,Asthma
+40890405,Normal,Normal,Pneumonia (non-severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+40888395,Normal,Normal,Pneumonia (non-severe)
+65121853,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+64714172,Normal,Normal,Pneumonia (non-severe)
+41209060,Normal,Normal,Pneumonia (non-severe)
+41209060,Normal,Normal,Pneumonia (non-severe)
+41249093,Discontinuous Adventitious Sounds,Fine Crackle,Asthma
+65038439,Normal,Normal,Bronchitis
+65109516,Normal,Normal,Pneumonia (severe)
+65121853,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+40888395,Normal,Normal,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65109516,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+64714172,Normal,Normal,Pneumonia (non-severe)
+41209060,Normal,Normal,Pneumonia (non-severe)
+41225759,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65114720,Continuous Adventitious Sounds,Wheeze,Asthma
+41223618,Normal,Normal,Other respiratory diseases
+65121853,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64714172,Normal,Normal,Pneumonia (non-severe)
+64601539,Normal,Normal,Asthma
+65121853,Discontinuous Adventitious Sounds,Coarse Crackle,Pneumonia (non-severe)
+41243139,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41222985,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65050748,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41031554,Normal,Normal,Control Group
+65109516,Normal,Normal,Pneumonia (severe)
+65115243,Normal,Normal,Pneumonia (non-severe)
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+64585803,Normal,Normal,Asthma
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+40993807,Normal,Normal,Pneumonia (non-severe)
+64714172,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64601539,Normal,Normal,Asthma
+65109516,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+65106469,Normal,Normal,Pneumonia (severe)
+41223618,Normal,Normal,Other respiratory diseases
+65005529,Normal,Normal,Pneumonia (non-severe)
+64601539,Normal,Normal,Asthma
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+64714172,Normal,Normal,Pneumonia (non-severe)
+41223618,Normal,Normal,Other respiratory diseases
+63658468,Normal,Normal,Pneumonia (non-severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+65106469,Normal,Normal,Pneumonia (severe)
+64714172,Normal,Normal,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65121853,Normal,Normal,Pneumonia (non-severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+65049153,Continuous & Discontinuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65107666,Normal,Normal,Asthma
+65038439,Normal,Normal,Bronchitis
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65114385,Normal,Normal,Bronchitis
+40890405,Normal,Normal,Pneumonia (non-severe)
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+65109516,Normal,Normal,Pneumonia (severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+40890405,Normal,Normal,Pneumonia (non-severe)
+65071184,Normal,Normal,Bronchitis
+63658468,Normal,Normal,Pneumonia (non-severe)
+41092434,Continuous Adventitious Sounds,Wheeze,Asthma
+65121853,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64779933,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+65118898,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41031554,Normal,Normal,Control Group
+65115243,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65114385,Normal,Normal,Bronchitis
+65106469,Normal,Normal,Pneumonia (severe)
+63902360,Normal,Normal,Asthma
+65109516,Normal,Normal,Pneumonia (severe)
+65121853,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65005529,Normal,Normal,Pneumonia (non-severe)
+65106469,Normal,Normal,Pneumonia (severe)
+65038439,Normal,Normal,Bronchitis
+41225759,Normal,Normal,Pneumonia (non-severe)
+65114631,Normal,Normal,Pneumonia (severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+63658468,Normal,Normal,Pneumonia (non-severe)
+41225759,Normal,Normal,Pneumonia (non-severe)
+41031554,Normal,Normal,Control Group
+65049153,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+40970076,Normal,Normal,Control Group
+64779933,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+41243139,Normal,Normal,Pneumonia (non-severe)
+40512331,Normal,Normal,Pneumonia (non-severe)
+65109516,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+65005529,Normal,Normal,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65071184,Normal,Normal,Bronchitis
+64585803,Normal,Normal,Asthma
+65106469,Normal,Normal,Pneumonia (severe)
+65038439,Normal,Normal,Bronchitis
+41225759,Normal,Normal,Pneumonia (non-severe)
+63658468,Normal,Normal,Pneumonia (non-severe)
+65038439,Normal,Normal,Bronchitis
+65106469,Normal,Normal,Pneumonia (severe)
+65038439,Normal,Normal,Bronchitis
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41225759,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41223618,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+65038439,Normal,Normal,Bronchitis
+41118244,Normal,Normal,Asthma
+64951742,Normal,Normal,Other respiratory diseases
+41275242,Normal,Normal,Pneumonia (non-severe)
+41264697,Normal,Normal,Pneumonia (non-severe)
+65079896,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64743918,Normal,Normal,Pneumonia (non-severe)
+41031836,Normal,Normal,Bronchitis
+65056986,Normal,Normal,Pneumonia (non-severe)
+63723123,Normal,Normal,Pneumonia (non-severe)
+41260370,Normal,Normal,Pneumonia (non-severe)
+63573658,Normal,Normal,Pneumonia (severe)
+41263490,Normal,Normal,Pneumonia (non-severe)
+40877908,Continuous Adventitious Sounds,Wheeze,Asthma
+65042563,Normal,Normal,Pneumonia (non-severe)
+40939271,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65060531,Normal,Normal,Pneumonia (non-severe)
+41191269,Normal,Normal,Pneumonia (non-severe)
+41166273,Normal,Normal,Control Group
+65060531,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+64743918,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65043263,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41050041,Normal,Normal,Other respiratory diseases
+40995749,Normal,Normal,Pneumonia (non-severe)
+41279835,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41244654,Continuous & Discontinuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41263355,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41065704,Normal,Normal,Pneumonia (non-severe)
+41263533,Normal,Normal,Pneumonia (non-severe)
+41159145,Normal,Normal,Pneumonia (non-severe)
+41187871,Normal,Normal,Pneumonia (non-severe)
+41097985,Normal,Normal,Pneumonia (non-severe)
+40672181,Normal,Normal,Asthma
+41171600,Normal,Normal,Pneumonia (non-severe)
+41275381,Normal,Normal,Pneumonia (non-severe)
+65079896,Normal,Normal,Pneumonia (non-severe)
+64743918,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64719544,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65096140,Normal,Normal,Control Group
+41259325,Continuous & Discontinuous Adventitious Sounds,Wheeze,Asthma
+41263533,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65063170,Normal,Normal,Pneumonia (non-severe)
+41259325,Continuous Adventitious Sounds,Wheeze,Asthma
+65060531,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41274453,Continuous Adventitious Sounds,Rhonchi,Pneumonia (non-severe)
+41156815,Normal,Normal,Pneumonia (non-severe)
+41260853,Normal,Normal,Pneumonia (non-severe)
+65052776,Normal,Normal,Control Group
+65063170,Normal,Normal,Pneumonia (non-severe)
+64913238,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+40794852,Normal,Normal,Pneumonia (non-severe)
+40728258,Normal,Normal,Pneumonia (non-severe)
+41167576,Normal,Normal,Pneumonia (non-severe)
+41102611,Normal,Normal,Pneumonia (non-severe)
+41274453,Normal,Normal,Pneumonia (non-severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+41186340,Normal,Normal,Pneumonia (non-severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+41104324,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65056986,Normal,Normal,Pneumonia (non-severe)
+41281333,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+40638274,Normal,Normal,Other respiratory diseases
+41263533,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65099422,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64913238,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+41251473,Continuous Adventitious Sounds,Rhonchi,Pneumonia (non-severe)
+41263355,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41065704,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+40813160,Normal,Normal,Pneumonia (severe)
+65064302,Normal,Normal,Pneumonia (non-severe)
+41126642,Normal,Normal,Asthma
+41279835,Normal,Normal,Pneumonia (non-severe)
+65044049,Discontinuous Adventitious Sounds,Coarse Crackle,Bronchitis
+41167576,Normal,Normal,Pneumonia (non-severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+65058398,Normal,Normal,Pneumonia (non-severe)
+41281695,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+40976541,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Asthma
+41104324,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41260242,Normal,Normal,Control Group
+65045840,Normal,Normal,Other respiratory diseases
+41247791,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41205122,Normal,Normal,Pneumonia (non-severe)
+41281695,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41087486,Normal,Normal,Pneumonia (non-severe)
+64743918,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64913238,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+64634665,Normal,Normal,Bronchitis
+64743918,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41104324,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41134874,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+64783073,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41227367,Normal,Normal,Other respiratory diseases
+64743918,Normal,Normal,Pneumonia (non-severe)
+41161556,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41281333,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41263355,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+40794666,Normal,Normal,Pneumonia (non-severe)
+41171600,Normal,Normal,Pneumonia (non-severe)
+41068313,Normal,Normal,Pneumonia (non-severe)
+41266405,Normal,Normal,Pneumonia (severe)
+41277654,Normal,Normal,Asthma
+40968057,Normal,Normal,Pneumonia (non-severe)
+65099422,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65056075,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+40877908,Normal,Normal,Asthma
+41004529,Normal,Normal,Pneumonia (non-severe)
+41267024,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41281333,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65058398,Normal,Normal,Pneumonia (non-severe)
+65074779,Normal,Normal,Pneumonia (non-severe)
+41161556,Normal,Normal,Pneumonia (non-severe)
+41017156,Normal,Normal,Pneumonia (non-severe)
+64875857,Normal,Normal,Bronchitis
+41103864,Normal,Normal,Pneumonia (non-severe)
+63613821,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41247791,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65078476,Normal,Normal,Other respiratory diseases
+41087486,Normal,Normal,Pneumonia (non-severe)
+65057904,Normal,Normal,Other respiratory diseases
+65080696,Normal,Normal,Pneumonia (non-severe)
+41125983,Normal,Normal,Asthma
+65068248,Normal,Normal,Pneumonia (non-severe)
+41112999,Normal,Normal,Bronchitis
+41087486,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41261485,Normal,Normal,Pneumonia (non-severe)
+65044711,Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+41267028,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41259325,Continuous Adventitious Sounds,Wheeze,Asthma
+41263533,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64727486,Discontinuous Adventitious Sounds,Coarse Crackle,Pneumonia (severe)
+41056352,Continuous Adventitious Sounds,Wheeze,Asthma
+65044157,Normal,Normal,Pneumonia (non-severe)
+64743918,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65032402,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64727486,Continuous & Discontinuous Adventitious Sounds,Wheeze+Crackle,Pneumonia (severe)
+65044049,Discontinuous Adventitious Sounds,Coarse Crackle,Bronchitis
+65044484,Normal,Normal,Pneumonia (non-severe)
+41262399,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+65079896,Normal,Normal,Pneumonia (non-severe)
+41122685,Normal,Normal,Pneumonia (non-severe)
+41173389,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41159145,Normal,Normal,Pneumonia (non-severe)
+65028783,Normal,Normal,Other respiratory diseases
+65057904,Normal,Normal,Other respiratory diseases
+41279835,Normal,Normal,Pneumonia (non-severe)
+41096663,Normal,Normal,Pneumonia (non-severe)
+65019620,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65057904,Normal,Normal,Other respiratory diseases
+64878787,Normal,Normal,Control Group
+41096663,Normal,Normal,Pneumonia (non-severe)
+41227367,Normal,Normal,Other respiratory diseases
+41087486,Normal,Normal,Pneumonia (non-severe)
+41050041,Normal,Normal,Other respiratory diseases
+41065704,Normal,Normal,Pneumonia (non-severe)
+65091359,Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+41251473,Normal,Normal,Pneumonia (non-severe)
+41263533,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41259325,Continuous Adventitious Sounds,Wheeze,Asthma
+64940479,Normal,Normal,Pneumonia (non-severe)
+41103864,Normal,Normal,Pneumonia (non-severe)
+65099422,Continuous & Discontinuous Adventitious Sounds,Wheeze+Crackle,Pneumonia (non-severe)
+65057715,Normal,Normal,Other respiratory diseases
+41118244,Normal,Normal,Asthma
+41126642,Normal,Normal,Asthma
+41050041,Normal,Normal,Other respiratory diseases
+65039232,Normal,Normal,Pneumonia (severe)
+65090966,Normal,Normal,Other respiratory diseases
+41262439,Normal,Normal,Asthma
+65058398,Normal,Normal,Pneumonia (non-severe)
+41112999,Normal,Normal,Bronchitis
+64783073,Normal,Normal,Pneumonia (non-severe)
+65068248,Normal,Normal,Pneumonia (non-severe)
+41082553,Normal,Normal,Pneumonia (non-severe)
+64727486,Normal,Normal,Pneumonia (severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+41281695,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64940479,Normal,Normal,Pneumonia (non-severe)
+65055195,Normal,Normal,Pneumonia (non-severe)
+40939271,Normal,Normal,Pneumonia (non-severe)
+41064945,Normal,Normal,Asthma
+65099422,Normal,Normal,Pneumonia (non-severe)
+64783073,Discontinuous Adventitious Sounds,Coarse Crackle,Pneumonia (non-severe)
+64743918,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41004529,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+63613821,Normal,Normal,Pneumonia (non-severe)
+65045385,Continuous Adventitious Sounds,Stridor,Pneumonia (non-severe)
+41275680,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41279835,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41104324,Normal,Normal,Pneumonia (non-severe)
+41067823,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+40813160,Normal,Normal,Pneumonia (severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+41251473,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64878787,Normal,Normal,Control Group
+65091359,Normal,Normal,Other respiratory diseases
+63906783,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64969358,Normal,Normal,Other respiratory diseases
+64783073,Discontinuous Adventitious Sounds,Coarse Crackle,Pneumonia (non-severe)
+41227367,Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+64837947,Normal,Normal,Bronchitis
+64743918,Normal,Normal,Pneumonia (non-severe)
+65090966,Normal,Normal,Other respiratory diseases
+41279835,Normal,Normal,Pneumonia (non-severe)
+41161556,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64719544,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41260370,Normal,Normal,Pneumonia (non-severe)
+41087486,Normal,Normal,Pneumonia (non-severe)
+64727249,Normal,Normal,Pneumonia (non-severe)
+40813160,Normal,Normal,Pneumonia (severe)
+41097986,Normal,Normal,Pneumonia (non-severe)
+64726697,Continuous Adventitious Sounds,Rhonchi,Pneumonia (non-severe)
+41186340,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65060531,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64914400,Normal,Normal,Other respiratory diseases
+40933046,Normal,Normal,Pneumonia (non-severe)
+64914400,Normal,Normal,Other respiratory diseases
+41262231,Normal,Normal,Pneumonia (non-severe)
+40797293,Normal,Normal,Control Group
+41082553,Normal,Normal,Pneumonia (non-severe)
+41205122,Normal,Normal,Pneumonia (non-severe)
+65044049,Discontinuous Adventitious Sounds,Fine Crackle,Bronchitis
+41260370,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64743918,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+65019620,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41227367,Normal,Normal,Other respiratory diseases
+41156815,Normal,Normal,Pneumonia (non-severe)
+41279835,Normal,Normal,Pneumonia (non-severe)
+65019620,Normal,Normal,Pneumonia (non-severe)
+40933046,Normal,Normal,Pneumonia (non-severe)
+64914400,Normal,Normal,Other respiratory diseases
+41085148,Normal,Normal,Pneumonia (non-severe)
+40638274,Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+65028783,Normal,Normal,Other respiratory diseases
+40841531,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+65066754,Normal,Normal,Pneumonia (non-severe)
+64634665,Normal,Normal,Bronchitis
+41251473,Normal,Normal,Pneumonia (non-severe)
+65055195,Normal,Normal,Pneumonia (non-severe)
+65074779,Normal,Normal,Pneumonia (non-severe)
+63723123,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41247791,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65045423,Discontinuous Adventitious Sounds,Coarse Crackle,Pneumonia (non-severe)
+65019620,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65060531,Normal,Normal,Pneumonia (non-severe)
+64914400,Normal,Normal,Other respiratory diseases
+64827886,Normal,Normal,Control Group
+40797293,Normal,Normal,Control Group
+41262231,Normal,Normal,Pneumonia (non-severe)
+41102359,Normal,Normal,Asthma
+41056352,Discontinuous Adventitious Sounds,Fine Crackle,Asthma
+64743918,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64634665,Normal,Normal,Bronchitis
+41068313,Normal,Normal,Pneumonia (non-severe)
+41263406,Normal,Normal,Pneumonia (non-severe)
+65078476,Normal,Normal,Other respiratory diseases
+65044484,Normal,Normal,Pneumonia (non-severe)
+65066754,Normal,Normal,Pneumonia (non-severe)
+41097986,Normal,Normal,Pneumonia (non-severe)
+41244654,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+64743918,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41038697,Normal,Normal,Pneumonia (non-severe)
+64743918,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41275242,Normal,Normal,Pneumonia (non-severe)
+65027819,Normal,Normal,Pneumonia (non-severe)
+41074892,Normal,Normal,Asthma
+64974732,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41161556,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41267028,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+40638274,Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+41161556,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+40965308,Normal,Normal,Other respiratory diseases
+40969263,Normal,Normal,Pneumonia (non-severe)
+40845795,Normal,Normal,Pneumonia (non-severe)
+41244654,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41186340,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65061246,Normal,Normal,Pneumonia (severe)
+40995749,Normal,Normal,Pneumonia (non-severe)
+64951742,Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+41102359,Normal,Normal,Asthma
+40801342,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+42272778,Normal,Normal,Pneumonia (non-severe)
+64634665,Normal,Normal,Bronchitis
+41159145,Normal,Normal,Pneumonia (non-severe)
+65044484,Normal,Normal,Pneumonia (non-severe)
+40943224,Normal,Normal,Pneumonia (non-severe)
+41279835,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+41187982,Normal,Normal,Bronchitis
+65044484,Normal,Normal,Pneumonia (non-severe)
+41068313,Normal,Normal,Pneumonia (non-severe)
+41087486,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+40638274,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+63723123,Normal,Normal,Pneumonia (non-severe)
+41067823,Normal,Normal,Pneumonia (non-severe)
+41038697,Normal,Normal,Pneumonia (non-severe)
+40672181,Normal,Normal,Asthma
+64719544,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+64914400,Normal,Normal,Other respiratory diseases
+64743918,Normal,Normal,Pneumonia (non-severe)
+41073762,Normal,Normal,Pneumonia (non-severe)
+64634665,Normal,Normal,Bronchitis
+40968057,Normal,Normal,Pneumonia (non-severe)
+64727249,Normal,Normal,Pneumonia (non-severe)
+41277716,Normal,Normal,Pneumonia (non-severe)
+41087486,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41274453,Normal,Normal,Pneumonia (non-severe)
+41167576,Normal,Normal,Pneumonia (non-severe)
+41227367,Normal,Normal,Other respiratory diseases
+64827886,Normal,Normal,Control Group
+41202647,Normal,Normal,Pneumonia (non-severe)
+41171600,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41259325,Continuous Adventitious Sounds,Wheeze,Asthma
+41020298,Normal,Normal,Bronchitis
+64783073,Normal,Normal,Pneumonia (non-severe)
+65101170,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41281695,Continuous & Discontinuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41260370,Normal,Normal,Pneumonia (non-severe)
+41069986,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41279835,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41244654,Continuous Adventitious Sounds,Wheeze,Other respiratory diseases
+41262442,Normal,Normal,Pneumonia (non-severe)
+64835860,Normal,Normal,Asthma
+41263490,Normal,Normal,Pneumonia (non-severe)
+41085148,Normal,Normal,Pneumonia (non-severe)
+65066754,Normal,Normal,Pneumonia (non-severe)
+41067823,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+63723123,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65058931,Normal,Normal,Pneumonia (non-severe)
+41134874,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+64974732,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41108858,Normal,Normal,Pneumonia (non-severe)
+65097128,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41279835,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41261802,Continuous Adventitious Sounds,Wheeze,Pneumonia (severe)
+41202647,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65019620,Normal,Normal,Pneumonia (non-severe)
+65039232,Normal,Normal,Pneumonia (severe)
+40813160,Normal,Normal,Pneumonia (severe)
+64743918,Continuous Adventitious Sounds,Rhonchi,Pneumonia (non-severe)
+64634665,Normal,Normal,Bronchitis
+40939271,Normal,Normal,Pneumonia (non-severe)
+41050041,Normal,Normal,Other respiratory diseases
+64783073,Normal,Normal,Pneumonia (non-severe)
+41267028,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64969358,Normal,Normal,Other respiratory diseases
+41259325,Normal,Normal,Asthma
+41108858,Normal,Normal,Pneumonia (non-severe)
+41261802,Normal,Normal,Pneumonia (severe)
+41134874,Normal,Normal,Pneumonia (severe)
+40801342,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41112159,Normal,Normal,Control Group
+41031836,Normal,Normal,Bronchitis
+40969263,Continuous & Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+64743918,Continuous Adventitious Sounds,Wheeze,Pneumonia (non-severe)
+41125983,Normal,Normal,Asthma
+40968057,Normal,Normal,Pneumonia (non-severe)
+40794666,Normal,Normal,Pneumonia (non-severe)
+41227367,Normal,Normal,Other respiratory diseases
+64726697,Normal,Normal,Pneumonia (non-severe)
+41263406,Normal,Normal,Pneumonia (non-severe)
+41283612,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (severe)
+64783073,Normal,Normal,Pneumonia (non-severe)
+64743918,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+41080062,Normal,Normal,Pneumonia (non-severe)
+63613821,Normal,Normal,Pneumonia (non-severe)
+64634665,Normal,Normal,Bronchitis
+41102611,Discontinuous Adventitious Sounds,Fine Crackle,Pneumonia (non-severe)
+65044049,Discontinuous Adventitious Sounds,Fine Crackle,Bronchitis
+41281088,Normal,Normal,Control Group
+41068313,Normal,Normal,Pneumonia (non-severe)
+40638274,Discontinuous Adventitious Sounds,Fine Crackle,Other respiratory diseases
+65057715,Normal,Normal,Other respiratory diseases
+64783073,Normal,Normal,Pneumonia (non-severe)
+41115183,Continuous Adventitious Sounds,Rhonchi,Control Group
+65044049,Normal,Normal,Bronchitis
+41017156,Normal,Normal,Pneumonia (non-severe)

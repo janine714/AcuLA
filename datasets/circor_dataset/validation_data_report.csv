@@ -1,0 +1,150 @@
+Patient_ID,Meta_Report,Gen_Report
+84901,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals the absence of any murmurs, indicating a normal outcome."
+84873,"Murmur: Absent, Outcome: Normal",Cardiac auscultation is unremarkable with no audible murmurs. Findings suggest normal cardiac function.
+85082,"Murmur: Unknown, Outcome: Normal",Cardiac auscultation revealed no abnormal findings and the outcome is normal.
+84705,"Murmur: Unknown, Outcome: Abnormal",Patient presents with an abnormal cardiac murmur noted on auscultation. Further clinical correlation is warranted to assess the underlying etiology and its clinical significance.
+85255,"Murmur: Present, Murmur locations: AV+MV+PV+TV, Most audible location: TV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: III/VI, Pitch: High, Quality: Harsh, Outcome: Abnormal","A holosystolic, high-pitched, harsh murmur graded III/VI is present, most audible at the tricuspid valve area, with additional audibility at the aortic, mitral, and pulmonic valve areas. The murmur has a plateau shape and is indicative of an abnormal outcome."
+84694,"Murmur: Absent, Outcome: Normal","Cardiac auscultation revealed no detectable murmurs, indicating a normal assessment."
+68803,"Murmur: Present, Murmur locations: AV+MV+PV+TV, Most audible location: PV, Systolic murmur timing: Early-systolic, Shape: Plateau, Grading: II/VI, Pitch: Medium, Quality: Harsh, Outcome: Abnormal","Early-systolic, medium-pitched, harsh murmur with a plateau shape is present, graded II/VI, most audible at the pulmonary valve and also present at the aortic, mitral, and tricuspid valves. The outcome is abnormal."
+68437,"Murmur: Unknown, Outcome: Abnormal",Auscultation reveals an abnormal murmur. Further clinical details are required to characterize the specific type.
+84741,"Murmur: Absent, Outcome: Normal","Auscultation reveals no detectable murmur, indicating normal heart sounds."
+49697,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals no murmurs, though the outcome is noted to be abnormal."
+50698,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals no murmur; however, the outcome is noted as abnormal, suggesting underlying cardiac pathology without audible murmur."
+85185,"Murmur: Absent, Outcome: Normal","No murmurs detected, normal cardiac auscultation."
+84911,"Murmur: Absent, Outcome: Normal",Cardiac auscultation findings show no murmurs with a normal outcome.
+50073,"Murmur: Absent, Outcome: Normal",Normal cardiac auscultation with no murmurs detected.
+33044,"Murmur: Present, Murmur locations: AV+MV+PV+TV, Most audible location: PV, Systolic murmur timing: Late-systolic, Shape: Crescendo, Grading: III/VI, Pitch: Medium, Quality: Harsh, Outcome: Abnormal","A late-systolic crescendo murmur is detected, most audible at the pulmonic valve (PV) area, with radiation to the aortic (AV), mitral (MV), and tricuspid (TV) areas. The murmur is graded III/VI, has a medium pitch, and a harsh quality, indicating an abnormal finding."
+85149,"Murmur: Absent, Outcome: Normal",Normal heart sounds with no audible murmurs.
+74407,"Murmur: Present, Murmur locations: PV, Most audible location: PV, Systolic murmur timing: Mid-systolic, Shape: Diamond, Grading: I/VI, Pitch: Low, Quality: Harsh, Outcome: Normal","A mid-systolic, diamond-shaped, low-pitched, harsh murmur graded I/VI is present and is most audible at the pulmonary valve (PV) area. The outcome is normal."
+84818,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no audible murmurs. The findings are consistent with a normal cardiac function.
+34402,"Murmur: Absent, Outcome: Abnormal","No murmur detected on auscultation. Cardiac examination findings are abnormal, indicating a potential underlying issue."
+50081,"Murmur: Present, Murmur locations: AV+MV+PV, Most audible location: PV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: High, Quality: Blowing, Outcome: Abnormal","A high-pitched, blowing holosystolic murmur with a plateau shape is present, most audible at the pulmonic valve (PV), heard at the aortic valve (AV) and mitral valve (MV), graded I/VI, indicating an abnormal finding."
+50036,"Murmur: Present, Murmur locations: AV+MV+PV+TV, Most audible location: PV, Systolic murmur timing: Holosystolic, Shape: Diamond, Grading: III/VI, Pitch: Medium, Quality: Harsh, Outcome: Abnormal","A holosystolic, medium-pitched, harsh murmur graded III/VI is present, most audible over the pulmonic valve, and also heard at the aortic, mitral, and tricuspid valves. The murmur has a diamond shape and is considered abnormal."
+50110,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no detectable heart murmur, indicating normal heart sounds."
+50021,"Murmur: Absent, Outcome: Normal","Cardiac auscultation revealed no audible murmurs, indicating normal heart sounds."
+69100,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no audible murmur, indicating normal heart sounds and function."
+66421,"Murmur: Present, Murmur locations: MV+PV+TV, Most audible location: PV, Systolic murmur timing: Mid-systolic, Shape: Diamond, Grading: I/VI, Pitch: High, Quality: Harsh, Diastolic murmur timing: Mid-diastolic, Shape: Plateau, Grading: I/IV, Pitch: High, Quality: Blowing, Outcome: Abnormal","Mid-systolic, high-pitched, harsh, diamond-shaped murmur graded I/VI most audible at the pulmonic valve area and also detected at the mitral and tricuspid valves. Additionally, a mid-diastolic, high-pitched, blowing, plateau-shaped murmur graded I/IV was noted. Auscultation findings are abnormal."
+76459,"Murmur: Present, Murmur locations: AV+MV+PV+TV, Most audible location: AV, Systolic murmur timing: Early-systolic, Shape: Decrescendo, Grading: II/VI, Pitch: Medium, Quality: Harsh, Outcome: Abnormal","An early-systolic, medium-pitched, harsh decrescendo murmur grading II/VI is present and most audible at the aortic valve area, with additional auscultation at mitral, pulmonary, and tricuspid valves. The outcome is abnormal."
+15294,"Murmur: Unknown, Outcome: Normal",Cardiac auscultation findings reveal no abnormal heart sounds; the examination outcome is normal.
+85073,"Murmur: Absent, Outcome: Normal","No murmurs detected, suggesting normal cardiac function."
+50257,"Murmur: Present, Murmur locations: MV+PV, Most audible location: MV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Blowing, Outcome: Normal","A low-pitched, blowing holosystolic murmur with a plateau shape is heard most audibly at the mitral valve area and is also present at the pulmonary valve, graded I/VI. Cardiac outcome is reported as normal."
+85138,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmur, indicating a normal auditory examination."
+85179,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals an absence of murmurs. Outcome is normal.
+84777,"Murmur: Absent, Outcome: Normal",Auscultation reveals no murmur. The cardiac findings are within normal limits.
+84729,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. The findings are normal.
+49857,"Murmur: Present, Murmur locations: AV+MV, Most audible location: MV, Systolic murmur timing: Mid-systolic, Shape: Diamond, Grading: I/VI, Pitch: Medium, Quality: Harsh, Outcome: Abnormal","A mid-systolic diamond-shaped murmur, grading I/VI, is audible at the mitral valve and aortic valve locations, with the most prominent sound at the mitral valve. The murmur has a medium pitch and a harsh quality, indicating an abnormal outcome."
+85125,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. The outcome is normal.
+68800,"Murmur: Unknown, Outcome: Abnormal","An abnormal heart murmur was detected. Further information regarding the characteristics, timing, and location of the murmur is not provided."
+49794,"Murmur: Absent, Outcome: Normal",Cardiac auscultation revealed no murmurs. The outcome is normal.
+50039,"Murmur: Unknown, Outcome: Abnormal",The cardiac auscultation revealed an abnormal murmur. Further details about the nature and location of the murmur are not specified.
+84715,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. Overall outcome is normal.
+79036,"Murmur: Present, Murmur locations: PV+TV, Most audible location: PV, Systolic murmur timing: Early-systolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Blowing, Outcome: Abnormal","Early-systolic, low-pitched, blowing murmur graded I/VI, most audible at the pulmonic valve (PV) and also heard at the tricuspid valve (TV), with a plateau shape; abnormal finding."
+38848,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals no murmur; however, the overall outcome is abnormal."
+50778,"Murmur: Present, Murmur locations: MV+PV, Most audible location: PV, Systolic murmur timing: Early-systolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Blowing, Outcome: Abnormal","An early-systolic plateau murmur, graded I/VI, is present with a low pitch and blowing quality. It is most audible at the pulmonic valve area and also noted at the mitral valve area."
+85298,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation findings indicate the absence of a murmur, yet the overall outcome is abnormal."
+85263,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. Findings are within normal limits.
+85071,"Murmur: Absent, Outcome: Normal","No murmur detected, indicating normal cardiac auscultation."
+49955,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation revealed no murmurs. Despite the absence of murmurs, the outcome was noted to be abnormal."
+68835,"Murmur: Absent, Outcome: Abnormal","Auscultation reveals an abnormal outcome despite the absence of a detectable murmur, suggesting a potential non-murmur related cardiac condition."
+68468,"Murmur: Unknown, Outcome: Normal",Cardiac auscultation reveals no abnormal findings. Heart sounds are normal with no detectable murmurs.
+85058,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs; findings are within normal limits.
+49992,"Murmur: Absent, Outcome: Normal","Cardiac auscultation revealed no murmurs, and the findings are considered normal."
+50618,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals no murmur. Despite the absence of a murmur, other abnormalities are present."
+50675,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation reveals abnormal findings despite the absence of a murmur.
+85187,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmurs, indicating normal heart sounds and function."
+84858,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation revealed no audible murmurs. However, the overall outcome of the examination is considered abnormal."
+45973,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmur, outcome is normal."
+55890,"Murmur: Unknown, Outcome: Normal","Cardiac auscultation findings are within normal limits, no pathologic murmurs detected."
+52438,"Murmur: Absent, Outcome: Normal",Normal cardiac auscultation with no detectable murmurs.
+84975,"Murmur: Absent, Outcome: Normal","Cardiac auscultation findings are normal with no audible murmurs detected, indicating no apparent structural heart abnormalities."
+84794,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmur, indicating normal heart sounds and function."
+45045,"Murmur: Absent, Outcome: Normal","Cardiac auscultation revealed no detectable murmurs, indicating a normal cardiovascular examination."
+84811,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no audible murmurs. The findings are normal.
+84943,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmur, indicating normal heart sounds without evidence of abnormal flow or structural abnormalities."
+65011,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals absent murmur. The overall outcome is normal.
+85304,"Murmur: Absent, Outcome: Normal","Cardiac auscultation revealed no murmurs, indicating a normal cardiac exam."
+85290,"Murmur: Present, Murmur locations: AV+MV, Most audible location: MV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Medium, Quality: Blowing, Outcome: Abnormal","A holosystolic, medium-pitched, blowing murmur with a plateau shape is present, predominantly audible at the mitral valve location, graded I/VI. The murmur is also heard at both the aortic and mitral valve areas. The finding is abnormal."
+85292,"Murmur: Absent, Outcome: Normal",Normal cardiac auscultation with absent murmurs.
+85142,"Murmur: Absent, Outcome: Normal",Cardiac auscultation revealed no murmurs. Outcome is normal.
+49865,"Murmur: Present, Murmur locations: AV+PV+TV, Most audible location: PV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Medium, Quality: Blowing, Outcome: Abnormal","A medium-pitched, blowing, holosystolic murmur with a plateau shape heard at the aortic, pulmonic, and tricuspid valves, most audible at the pulmonic valve, graded I/VI, is noted. The outcome is abnormal."
+49806,"Murmur: Absent, Outcome: Abnormal","Absence of murmur noted despite abnormal clinical outcome, suggesting potential non-auscultatory cardiac pathology."
+50726,"Murmur: Present, Murmur locations: PV+TV, Most audible location: PV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Blowing, Outcome: Abnormal","Holosystolic blowing murmur graded I/VI with a plateau shape, most audible at the pulmonary valve (PV) and also present at the tricuspid valve (TV). Pitch is low. Outcome is abnormal."
+85303,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no audible murmurs, indicating normal heart sounds."
+50684,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmurs, indicating normal heart sounds without evidence of valvular abnormalities or turbulence."
+68261,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals no murmur. However, the findings indicate an abnormal outcome."
+50279,"Murmur: Unknown, Outcome: Abnormal","An abnormal cardiac murmur is detected. Precise characterization of the murmur (e.g., timing, location, intensity) is not provided."
+50028,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. The outcome is normal.
+49693,"Murmur: Present, Murmur locations: TV, Most audible location: TV, Systolic murmur timing: Early-systolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Harsh, Outcome: Normal","An early-systolic, low-pitched plateau murmur with a harsh quality is present at the tricuspid valve (TV), graded I/VI and most audible at the TV. Outcome is noted as normal."
+68733,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation revealed an abnormal outcome despite the absence of a murmur.
+69074,"Murmur: Present, Murmur locations: AV+MV+PV+TV, Most audible location: PV, Systolic murmur timing: Mid-systolic, Shape: Diamond, Grading: III/VI, Pitch: Medium, Quality: Harsh, Outcome: Abnormal","Mid-systolic, diamond-shaped, medium-pitched, harsh murmur graded III/VI heard across the AV, MV, PV, and TV valves, with the murmur most audible at the PV. Outcome is abnormal."
+85346,"Murmur: Absent, Outcome: Normal",Cardiac auscultation revealed no murmurs. Findings are normal.
+85068,"Murmur: Absent, Outcome: Abnormal","No murmur detected on auscultation, however, findings are abnormal."
+50087,"Murmur: Present, Murmur locations: AV+MV, Most audible location: AV, Systolic murmur timing: Early-systolic, Shape: Decrescendo, Grading: I/VI, Pitch: Low, Quality: Harsh, Outcome: Normal","An early-systolic, low-pitch, decrescendo murmur graded I/VI, harsh in quality, is present. It is most audible at the aortic valve and also heard at the mitral valve area. Outcome is normal."
+50038,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. The overall outcome is normal.
+49841,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmurs, heart sounds are normal."
+50369,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. Outcome is normal.
+84997,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. The findings are indicative of a normal cardiac examination.
+50212,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no audible murmur, indicative of a normal cardiac examination."
+85204,"Murmur: Present, Murmur locations: PV+TV, Most audible location: TV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Medium, Quality: Blowing, Outcome: Normal","A holosystolic, medium-pitched, blowing murmur graded I/VI was detected, most audible at the tricuspid valve area with additional presence at the pulmonary valve. It has a plateau shape. Outcome remains normal."
+50307,"Murmur: Present, Murmur locations: AV+MV+PV, Most audible location: PV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: III/VI, Pitch: Medium, Quality: Harsh, Outcome: Abnormal","A holosystolic, plateau-shaped, medium-pitched, harsh murmur graded III/VI is present and most audible at the pulmonic valve location, also heard at the aortic and mitral valves. The findings are abnormal."
+85283,"Murmur: Present, Murmur locations: MV, Most audible location: MV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Blowing, Outcome: Normal","A low-pitched, blowing holosystolic murmur with a plateau shape, grading I/VI, most audible at the mitral valve."
+85095,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmur present, indicating a normal finding."
+84817,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no audible murmurs. Findings are consistent with normal cardiac function.
+50816,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no audible murmurs, consistent with normal heart sounds."
+85183,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. The findings are consistent with a normal cardiac function.
+68721,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals an abnormal outcome despite the absence of murmurs, indicating potential underlying cardiac abnormalities that may not be audibly evident."
+50131,"Murmur: Absent, Outcome: Abnormal","No murmurs detected upon auscultation. However, the overall cardiac outcome is abnormal."
+49679,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmur, indicating a normal cardiac examination."
+50031,"Murmur: Absent, Outcome: Normal","Cardiac auscultation revealed no murmurs, indicating normal heart sounds without any evidence of valvular abnormalities."
+50224,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. The outcome is normal.
+50703,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. The outcome is normal.
+50830,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals no audible murmurs, yet findings are abnormal. Further details are required to elucidate the nature of the abnormality."
+68951,"Murmur: Absent, Outcome: Abnormal","The cardiac exam reveals no audible murmur; however, the overall outcome is abnormal."
+50769,"Murmur: Absent, Outcome: Normal",Cardiac auscultation revealed no murmurs. The outcome is normal.
+13596,"Murmur: Unknown, Outcome: Abnormal",The cardiac auscultation revealed an abnormal murmur. Further specifics about the murmur characteristics are not provided.
+84752,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs with a normal outcome.
+84744,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. Outcome is normal.
+50283,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation findings: Murmur absent. Outcome: Abnormal.
+50686,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation reveals no audible murmurs, yet the overall outcome is abnormal. Further underlying cardiac issues may be present despite the absence of a murmur."
+85074,"Murmur: Absent, Outcome: Normal",Heart auscultation reveals no murmurs. Cardiac examination outcome is normal.
+84913,"Murmur: Unknown, Outcome: Normal",Cardiac auscultation reveals a normal outcome despite the presence of an unidentified murmur.
+85089,"Murmur: Absent, Outcome: Abnormal",No audible heart murmur detected. Cardiac findings are abnormal despite the absence of a murmur.
+50046,"Murmur: Absent, Outcome: Normal",Normal cardiac auscultation findings with no murmurs detected.
+85324,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. Normal heart sounds auscultated.
+50106,"Murmur: Unknown, Outcome: Abnormal","An abnormal heart murmur has been detected. Further specifics about the murmur, such as timing, location, and quality, are not provided in the given information."
+50205,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation reveals absence of murmurs. Clinical outcome is abnormal despite the lack of murmur.
+50246,"Murmur: Present, Murmur locations: AV+MV, Most audible location: MV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Blowing, Outcome: Normal","Holosystolic plateau murmur with a low pitch and blowing quality, grade I/VI, most audible at the mitral valve area, also present in the aortic valve region. Overall normal outcome."
+49899,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. The outcome is normal.
+85193,"Murmur: Absent, Outcome: Normal","No murmur detected, cardiac auscultation findings are normal."
+49948,"Murmur: Unknown, Outcome: Normal",Cardiac auscultation reveals no abnormal heart sounds; normal heart sounds are present without any detectable murmur.
+49800,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation reveals no murmurs. Abnormal findings noted despite the absence of murmurs.
+50002,"Murmur: Absent, Outcome: Normal",Cardiac auscultation revealed no murmur. The findings are consistent with a normal cardiac examination.
+50718,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals absent murmurs. Overall outcome is normal.
+50801,"Murmur: Absent, Outcome: Normal",No murmur detected. Cardiac auscultation findings are normal.
+50013,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no detectable murmurs, indicating normal heart sounds without abnormalities."
+50810,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs and normal heart sounds.
+50101,"Murmur: Absent, Outcome: Abnormal","Despite the absence of a murmur, the cardiac examination is deemed abnormal. Further clinical correlation is necessary to determine the underlying cause."
+50719,"Murmur: Present, Murmur locations: AV+PV, Most audible location: PV, Systolic murmur timing: Early-systolic, Shape: Decrescendo, Grading: I/VI, Pitch: Low, Quality: Harsh, Outcome: Normal","A low-pitched, harsh, early-systolic decrescendo murmur graded I/VI is present, most audible at the pulmonary valve (PV) area, and also heard at the aortic valve (AV) area. The outcome is noted as normal."
+50274,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation reveals an absent murmur but the findings are nonetheless abnormal. Further clinical correlation is indicated to understand the nature of the abnormality.
+49962,"Murmur: Absent, Outcome: Abnormal","Cardiac auscultation indicates no audible murmurs, however, the overall outcome is categorized as abnormal."
+69795,"Murmur: Present, Murmur locations: AV+MV+PV+TV, Most audible location: TV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: III/VI, Pitch: Medium, Quality: Blowing, Outcome: Abnormal","A medium-pitched, blowing, holosystolic murmur graded III/VI is present and most audible at the tricuspid valve, with auscultation findings also noted at the aortic, mitral, and pulmonary valves. The murmur is of plateau shape."
+85266,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. Outcome is normal.
+84972,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no audible murmur. The findings are consistent with a normal cardiac examination.
+85178,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmurs. The outcome is normal.
+50823,"Murmur: Present, Murmur locations: TV, Most audible location: TV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: Low, Quality: Harsh, Outcome: Abnormal","A low-pitched, harsh, holosystolic murmur graded I/VI is most audible at the tricuspid valve area, presenting a plateau shape. This finding is abnormal."
+85218,"Murmur: Absent, Outcome: Normal","Cardiac auscultation revealed no audible murmur, indicating a normal cardiac examination."
+85257,"Murmur: Present, Murmur locations: AV+PV+TV, Most audible location: PV, Systolic murmur timing: Holosystolic, Shape: Plateau, Grading: I/VI, Pitch: High, Quality: Harsh, Outcome: Abnormal","A holosystolic, high-pitched, harsh murmur is present, most audible at the pulmonic valve and also heard at the aortic, pulmonic, and tricuspid valves, graded as I/VI with a plateau shape. The outcome is abnormal."
+85045,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no audible murmur. Overall findings are normal.
+84797,"Murmur: Unknown, Outcome: Normal",Heart sounds auscultated are normal with no discernible murmurs present.
+68904,"Murmur: Unknown, Outcome: Abnormal","Cardiac auscultation reveals an abnormal murmur, precise characteristics unknown. Further clinical correlation is needed to determine underlying pathology."
+50683,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation revealed an abnormal outcome despite the absence of any detectable murmurs.
+84862,"Murmur: Absent, Outcome: Normal",No murmurs detected. Cardiac auscultation findings are normal.
+38586,"Murmur: Unknown, Outcome: Abnormal",An abnormal cardiac murmur was detected during auscultation. The specific type or characteristics of the murmur were not provided.
+84959,"Murmur: Absent, Outcome: Abnormal","Despite the absence of a murmur, the cardiac auscultation findings are abnormal. Further insight into the abnormality requires additional clinical information."
+85014,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur. Findings are consistent with normal cardiac function.
+68332,"Murmur: Present, Murmur locations: AV+MV, Most audible location: AV, Systolic murmur timing: Holosystolic, Shape: Diamond, Grading: I/VI, Pitch: High, Quality: Harsh, Outcome: Abnormal","Holosystolic high-pitched harsh murmur graded I/VI, most audible at the aortic valve (AV) area and also present at the mitral valve (MV) area, characterized by a diamond-shaped pattern. Outcome is abnormal."
+85268,"Murmur: Absent, Outcome: Abnormal",Cardiac auscultation reveals an abnormal outcome with no detectable murmur.
+50010,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no audible murmurs. Outcome is normal.
+50240,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no murmurs, indicating normal heart sounds."
+85083,"Murmur: Absent, Outcome: Normal",Cardiac auscultation reveals no murmur and is consistent with a normal outcome.
+50717,"Murmur: Absent, Outcome: Normal","Cardiac auscultation reveals no audible murmurs, indicating normal heart sounds and function."

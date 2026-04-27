@@ -1,0 +1,505 @@
+ID,Question,Answer
+H010,Does this patient have COPD?,Yes
+H045,Does this patient have COPD?,No
+H041,Does this patient have COPD?,No
+H036,Does this patient have COPD?,Yes
+H032,Does this patient have COPD?,Yes
+H038,Does this patient have COPD?,Yes
+H004,Does this patient not have COPD?,No
+H026,Does this patient have COPD?,Yes
+H022,Does this patient have COPD?,Yes
+H028,Does this patient not have COPD?,No
+H002,Does this patient have COPD?,Yes
+H008,Does this patient have COPD?,Yes
+H024,Does this patient not have COPD?,No
+H016,Does this patient have COPD?,No
+H043,Does this patient have COPD?,No
+H034,Does this patient have COPD?,Yes
+H030,Does this patient have COPD?,Yes
+H034,Does this patient have COPD?,Yes
+H043,Does this patient have COPD?,No
+H018,Does this patient not have COPD?,No
+H016,Does this patient have COPD?,No
+H012,Does this patient have COPD?,Yes
+H008,Does this patient not have COPD?,No
+H006,Does this patient have COPD?,Yes
+H002,Does this patient have COPD?,Yes
+H026,Does this patient not have COPD?,No
+H004,Does this patient have COPD?,Yes
+H038,Does this patient have COPD?,Yes
+H032,Does this patient not have COPD?,No
+H045,Does this patient have COPD?,No
+H014,Does this patient not have COPD?,No
+H010,Does this patient have COPD?,Yes
+H010,Does this patient have COPD?,Yes
+H014,Does this patient not have COPD?,No
+H041,Does this patient have COPD?,No
+H036,Does this patient have COPD?,Yes
+H004,Does this patient have COPD?,Yes
+H022,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H002,Does this patient have COPD?,Yes
+H006,Does this patient have COPD?,Yes
+H008,Does this patient have COPD?,Yes
+H024,Does this patient have COPD?,Yes
+H012,Does this patient not have COPD?,No
+H016,Does this patient have COPD?,No
+H018,Does this patient have COPD?,Yes
+H030,Does this patient have COPD?,Yes
+H030,Does this patient have COPD?,Yes
+H034,Does this patient have COPD?,Yes
+H018,Does this patient not have COPD?,No
+H043,Does this patient have COPD?,No
+H012,Does this patient have COPD?,Yes
+H024,Does this patient not have COPD?,No
+H006,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H022,Does this patient have COPD?,Yes
+H026,Does this patient have COPD?,Yes
+H038,Does this patient not have COPD?,No
+H032,Does this patient not have COPD?,No
+H036,Does this patient have COPD?,Yes
+H041,Does this patient have COPD?,No
+H045,Does this patient have COPD?,No
+H014,Does this patient have COPD?,Yes
+H045,Does this patient have COPD?,No
+H010,Does this patient not have COPD?,No
+H014,Does this patient have COPD?,Yes
+H038,Does this patient have COPD?,Yes
+H032,Does this patient not have COPD?,No
+H004,Does this patient not have COPD?,No
+H026,Does this patient not have COPD?,No
+H008,Does this patient have COPD?,Yes
+H002,Does this patient have COPD?,Yes
+H006,Does this patient not have COPD?,No
+H043,Does this patient have COPD?,No
+H018,Does this patient have COPD?,Yes
+H012,Does this patient not have COPD?,No
+H016,Does this patient have COPD?,No
+H034,Does this patient not have COPD?,No
+H030,Does this patient not have COPD?,No
+H034,Does this patient have COPD?,Yes
+H016,Does this patient have COPD?,No
+H043,Does this patient have COPD?,No
+H024,Does this patient have COPD?,Yes
+H002,Does this patient not have COPD?,No
+H008,Does this patient not have COPD?,No
+H022,Does this patient have COPD?,Yes
+H026,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H004,Does this patient have COPD?,Yes
+H032,Does this patient have COPD?,Yes
+H036,Does this patient not have COPD?,No
+H038,Does this patient have COPD?,Yes
+H010,Does this patient have COPD?,Yes
+H041,Does this patient have COPD?,No
+H045,Does this patient have COPD?,No
+H045,Does this patient have COPD?,No
+H041,Does this patient have COPD?,No
+H014,Does this patient have COPD?,Yes
+H038,Does this patient have COPD?,Yes
+H036,Does this patient have COPD?,Yes
+H032,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H026,Does this patient have COPD?,Yes
+H022,Does this patient not have COPD?,No
+H006,Does this patient not have COPD?,No
+H024,Does this patient have COPD?,Yes
+H018,Does this patient not have COPD?,No
+H043,Does this patient have COPD?,No
+H012,Does this patient have COPD?,Yes
+H034,Does this patient have COPD?,Yes
+H030,Does this patient have COPD?,Yes
+H030,Does this patient not have COPD?,No
+H016,Does this patient have COPD?,No
+H012,Does this patient have COPD?,Yes
+H018,Does this patient have COPD?,Yes
+H024,Does this patient have COPD?,Yes
+H006,Does this patient not have COPD?,No
+H002,Does this patient not have COPD?,No
+H008,Does this patient not have COPD?,No
+H022,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H004,Does this patient have COPD?,Yes
+H036,Does this patient have COPD?,Yes
+H014,Does this patient have COPD?,Yes
+H010,Does this patient have COPD?,Yes
+H041,Does this patient have COPD?,No
+H026,Does this patient have COPD?,Yes
+H022,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H014,Does this patient have COPD?,Yes
+H045,Does this patient have COPD?,No
+H041,Does this patient have COPD?,No
+H036,Does this patient not have COPD?,No
+H032,Does this patient have COPD?,Yes
+H038,Does this patient have COPD?,Yes
+H012,Does this patient have COPD?,Yes
+H043,Does this patient have COPD?,No
+H018,Does this patient have COPD?,Yes
+H034,Does this patient have COPD?,Yes
+H030,Does this patient not have COPD?,No
+H006,Does this patient not have COPD?,No
+H024,Does this patient not have COPD?,No
+H024,Does this patient not have COPD?,No
+H008,Does this patient have COPD?,Yes
+H006,Does this patient not have COPD?,No
+H002,Does this patient have COPD?,Yes
+H030,Does this patient not have COPD?,No
+H018,Does this patient have COPD?,Yes
+H016,Does this patient have COPD?,No
+H012,Does this patient have COPD?,Yes
+H036,Does this patient have COPD?,Yes
+H041,Does this patient have COPD?,No
+H014,Does this patient have COPD?,Yes
+H010,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H022,Does this patient have COPD?,Yes
+H004,Does this patient have COPD?,Yes
+H004,Does this patient have COPD?,Yes
+H026,Does this patient have COPD?,Yes
+H010,Does this patient have COPD?,Yes
+H014,Does this patient not have COPD?,No
+H045,Does this patient have COPD?,No
+H032,Does this patient not have COPD?,No
+H038,Does this patient have COPD?,Yes
+H012,Does this patient have COPD?,Yes
+H016,Does this patient have COPD?,No
+H018,Does this patient have COPD?,Yes
+H043,Does this patient have COPD?,No
+H034,Does this patient have COPD?,Yes
+H002,Does this patient not have COPD?,No
+H006,Does this patient not have COPD?,No
+H008,Does this patient have COPD?,Yes
+H024,Does this patient not have COPD?,No
+H008,Does this patient not have COPD?,No
+H002,Does this patient not have COPD?,No
+H030,Does this patient not have COPD?,No
+H034,Does this patient have COPD?,Yes
+H043,Does this patient have COPD?,No
+H016,Does this patient have COPD?,No
+H038,Does this patient not have COPD?,No
+H032,Does this patient have COPD?,Yes
+H036,Does this patient have COPD?,Yes
+H041,Does this patient have COPD?,No
+H045,Does this patient have COPD?,No
+H010,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H022,Does this patient not have COPD?,No
+H026,Does this patient have COPD?,Yes
+H004,Does this patient not have COPD?,No
+H004,Does this patient have COPD?,Yes
+H028,Does this patient not have COPD?,No
+H022,Does this patient not have COPD?,No
+H041,Does this patient have COPD?,No
+H010,Does this patient have COPD?,Yes
+H014,Does this patient have COPD?,Yes
+H036,Does this patient not have COPD?,No
+H018,Does this patient have COPD?,Yes
+H012,Does this patient have COPD?,Yes
+H016,Does this patient have COPD?,No
+H030,Does this patient have COPD?,Yes
+H008,Does this patient have COPD?,Yes
+H002,Does this patient have COPD?,Yes
+H006,Does this patient have COPD?,Yes
+H024,Does this patient have COPD?,Yes
+H024,Does this patient not have COPD?,No
+H006,Does this patient have COPD?,Yes
+H030,Does this patient not have COPD?,No
+H034,Does this patient have COPD?,Yes
+H012,Does this patient not have COPD?,No
+H043,Does this patient have COPD?,No
+H018,Does this patient not have COPD?,No
+H032,Does this patient not have COPD?,No
+H036,Does this patient have COPD?,Yes
+H038,Does this patient not have COPD?,No
+H014,Does this patient have COPD?,Yes
+H041,Does this patient have COPD?,No
+H045,Does this patient have COPD?,No
+H022,Does this patient have COPD?,Yes
+H026,Does this patient have COPD?,Yes
+H028,Does this patient have COPD?,Yes
+H004,Does this patient not have COPD?,No
+H028,Does this patient not have COPD?,No
+H026,Does this patient not have COPD?,No
+H022,Does this patient not have COPD?,No
+H045,Does this patient have COPD?,No
+H041,Does this patient have COPD?,No
+H010,Does this patient have COPD?,Yes
+H038,Does this patient have COPD?,Yes
+H036,Does this patient not have COPD?,No
+H032,Does this patient have COPD?,Yes
+H043,Does this patient have COPD?,No
+H016,Does this patient have COPD?,No
+H034,Does this patient have COPD?,Yes
+H030,Does this patient have COPD?,Yes
+H008,Does this patient not have COPD?,No
+H002,Does this patient have COPD?,Yes
+H024,Does this patient have COPD?,Yes
+H006,Does this patient have COPD?,Yes
+H002,Does this patient have COPD?,Yes
+H008,Does this patient have COPD?,Yes
+H034,Does this patient not have COPD?,No
+H016,Does this patient have COPD?,No
+H012,Does this patient have COPD?,Yes
+H018,Does this patient not have COPD?,No
+H043,Does this patient have COPD?,No
+H032,Does this patient not have COPD?,No
+H038,Does this patient not have COPD?,No
+H014,Does this patient have COPD?,Yes
+H010,Does this patient have COPD?,Yes
+H045,Does this patient have COPD?,No
+H026,Does this patient have COPD?,Yes
+H004,Does this patient have COPD?,Yes
+H007,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H025,Does this patient have COPD?,Yes
+H042,Does this patient have COPD?,Yes
+H013,Does this patient have COPD?,Yes
+H031,Does this patient have COPD?,Yes
+H035,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H044,Does this patient have COPD?,Yes
+H015,Does this patient have COPD?,Yes
+H039,Does this patient have COPD?,No
+H033,Does this patient have COPD?,Yes
+H037,Does this patient have COPD?,No
+H050,Does this patient have COPD?,No
+H029,Does this patient have COPD?,No
+H023,Does this patient have COPD?,Yes
+H023,Does this patient not have COPD?,No
+H029,Does this patient have COPD?,No
+H005,Does this patient have COPD?,Yes
+H037,Does this patient have COPD?,No
+H011,Does this patient have COPD?,Yes
+H015,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H031,Does this patient not have COPD?,No
+H013,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H025,Does this patient have COPD?,Yes
+H003,Does this patient have COPD?,Yes
+H007,Does this patient have COPD?,Yes
+H009,Does this patient have COPD?,Yes
+H009,Does this patient have COPD?,Yes
+H007,Does this patient have COPD?,Yes
+H003,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H042,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H013,Does this patient have COPD?,Yes
+H035,Does this patient have COPD?,Yes
+H044,Does this patient not have COPD?,No
+H015,Does this patient have COPD?,Yes
+H011,Does this patient not have COPD?,No
+H039,Does this patient have COPD?,No
+H033,Does this patient not have COPD?,No
+H050,Does this patient have COPD?,No
+H005,Does this patient have COPD?,Yes
+H023,Does this patient have COPD?,Yes
+H029,Does this patient have COPD?,No
+H005,Does this patient have COPD?,Yes
+H050,Does this patient have COPD?,No
+H037,Does this patient have COPD?,No
+H033,Does this patient have COPD?,Yes
+H039,Does this patient have COPD?,No
+H011,Does this patient not have COPD?,No
+H044,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H035,Does this patient have COPD?,Yes
+H031,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H042,Does this patient not have COPD?,No
+H025,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H003,Does this patient not have COPD?,No
+H009,Does this patient have COPD?,Yes
+H007,Does this patient have COPD?,Yes
+H003,Does this patient have COPD?,Yes
+H009,Does this patient have COPD?,Yes
+H025,Does this patient not have COPD?,No
+H017,Does this patient have COPD?,No
+H013,Does this patient not have COPD?,No
+H031,Does this patient have COPD?,Yes
+H015,Does this patient not have COPD?,No
+H011,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H037,Does this patient have COPD?,No
+H005,Does this patient not have COPD?,No
+H023,Does this patient not have COPD?,No
+H029,Does this patient have COPD?,No
+H029,Does this patient have COPD?,No
+H023,Does this patient have COPD?,Yes
+H050,Does this patient have COPD?,No
+H039,Does this patient have COPD?,No
+H037,Does this patient have COPD?,No
+H033,Does this patient not have COPD?,No
+H044,Does this patient have COPD?,Yes
+H040,Does this patient have COPD?,No
+H015,Does this patient not have COPD?,No
+H035,Does this patient have COPD?,Yes
+H031,Does this patient not have COPD?,No
+H042,Does this patient not have COPD?,No
+H013,Does this patient not have COPD?,No
+H025,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H007,Does this patient not have COPD?,No
+H003,Does this patient have COPD?,Yes
+H009,Does this patient not have COPD?,No
+H021,Does this patient have COPD?,No
+H025,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H042,Does this patient not have COPD?,No
+H031,Does this patient have COPD?,Yes
+H035,Does this patient not have COPD?,No
+H011,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H044,Does this patient have COPD?,Yes
+H033,Does this patient have COPD?,Yes
+H037,Does this patient have COPD?,No
+H039,Does this patient have COPD?,No
+H005,Does this patient not have COPD?,No
+H050,Does this patient have COPD?,No
+H023,Does this patient not have COPD?,No
+H029,Does this patient have COPD?,No
+H050,Does this patient have COPD?,No
+H005,Does this patient have COPD?,Yes
+H039,Does this patient have COPD?,No
+H033,Does this patient have COPD?,Yes
+H044,Does this patient have COPD?,Yes
+H011,Does this patient have COPD?,Yes
+H015,Does this patient have COPD?,Yes
+H035,Does this patient not have COPD?,No
+H042,Does this patient have COPD?,Yes
+H013,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H021,Does this patient have COPD?,No
+H009,Does this patient have COPD?,Yes
+H003,Does this patient not have COPD?,No
+H007,Does this patient have COPD?,Yes
+H042,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H031,Does this patient have COPD?,Yes
+H035,Does this patient have COPD?,Yes
+H009,Does this patient have COPD?,Yes
+H003,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H025,Does this patient have COPD?,Yes
+H050,Does this patient have COPD?,No
+H005,Does this patient have COPD?,Yes
+H029,Does this patient have COPD?,No
+H023,Does this patient have COPD?,Yes
+H040,Does this patient have COPD?,No
+H044,Does this patient have COPD?,Yes
+H011,Does this patient not have COPD?,No
+H039,Does this patient have COPD?,No
+H033,Does this patient have COPD?,Yes
+H037,Does this patient have COPD?,No
+H033,Does this patient have COPD?,Yes
+H039,Does this patient have COPD?,No
+H011,Does this patient have COPD?,Yes
+H015,Does this patient have COPD?,Yes
+H044,Does this patient have COPD?,Yes
+H005,Does this patient have COPD?,Yes
+H050,Does this patient have COPD?,No
+H021,Does this patient have COPD?,No
+H003,Does this patient have COPD?,Yes
+H007,Does this patient not have COPD?,No
+H009,Does this patient not have COPD?,No
+H035,Does this patient have COPD?,Yes
+H013,Does this patient not have COPD?,No
+H017,Does this patient have COPD?,No
+H042,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H013,Does this patient not have COPD?,No
+H031,Does this patient have COPD?,Yes
+H009,Does this patient not have COPD?,No
+H007,Does this patient not have COPD?,No
+H003,Does this patient have COPD?,Yes
+H025,Does this patient have COPD?,Yes
+H005,Does this patient have COPD?,Yes
+H029,Does this patient have COPD?,No
+H023,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H015,Does this patient not have COPD?,No
+H011,Does this patient have COPD?,Yes
+H037,Does this patient have COPD?,No
+H037,Does this patient have COPD?,No
+H033,Does this patient have COPD?,Yes
+H039,Does this patient have COPD?,No
+H015,Does this patient not have COPD?,No
+H044,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H023,Does this patient have COPD?,Yes
+H029,Does this patient have COPD?,No
+H050,Does this patient have COPD?,No
+H025,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H007,Does this patient not have COPD?,No
+H035,Does this patient have COPD?,Yes
+H031,Does this patient not have COPD?,No
+H013,Does this patient have COPD?,Yes
+H042,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
+H013,Does this patient have COPD?,Yes
+H042,Does this patient not have COPD?,No
+H035,Does this patient have COPD?,Yes
+H007,Does this patient have COPD?,Yes
+H003,Does this patient not have COPD?,No
+H009,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H005,Does this patient have COPD?,Yes
+H050,Does this patient have COPD?,No
+H015,Does this patient not have COPD?,No
+H011,Does this patient have COPD?,Yes
+H044,Does this patient not have COPD?,No
+H033,Does this patient not have COPD?,No
+H039,Does this patient have COPD?,No
+H039,Does this patient have COPD?,No
+H037,Does this patient have COPD?,No
+H033,Does this patient have COPD?,Yes
+H044,Does this patient not have COPD?,No
+H040,Does this patient have COPD?,No
+H011,Does this patient not have COPD?,No
+H029,Does this patient have COPD?,No
+H023,Does this patient have COPD?,Yes
+H050,Does this patient have COPD?,No
+H005,Does this patient have COPD?,Yes
+H025,Does this patient not have COPD?,No
+H021,Does this patient have COPD?,No
+H009,Does this patient have COPD?,Yes
+H003,Does this patient have COPD?,Yes
+H035,Does this patient have COPD?,Yes
+H031,Does this patient have COPD?,Yes
+H042,Does this patient not have COPD?,No
+H017,Does this patient have COPD?,No
+H013,Does this patient have COPD?,Yes
+H042,Does this patient have COPD?,Yes
+H031,Does this patient not have COPD?,No
+H035,Does this patient have COPD?,Yes
+H007,Does this patient have COPD?,Yes
+H021,Does this patient have COPD?,No
+H025,Does this patient have COPD?,Yes
+H050,Does this patient have COPD?,No
+H023,Does this patient have COPD?,Yes
+H029,Does this patient have COPD?,No
+H015,Does this patient have COPD?,Yes
+H040,Does this patient have COPD?,No
+H044,Does this patient have COPD?,Yes
+H033,Does this patient have COPD?,Yes
+H037,Does this patient have COPD?,No
+H039,Does this patient have COPD?,No
+H037,Does this patient have COPD?,No
+H040,Does this patient have COPD?,No
+H011,Does this patient have COPD?,Yes
+H015,Does this patient have COPD?,Yes
+H029,Does this patient have COPD?,No
+H023,Does this patient not have COPD?,No
+H005,Does this patient have COPD?,Yes
+H025,Does this patient not have COPD?,No
+H009,Does this patient have COPD?,Yes
+H003,Does this patient have COPD?,Yes
+H007,Does this patient have COPD?,Yes
+H031,Does this patient not have COPD?,No
+H013,Does this patient have COPD?,Yes
+H017,Does this patient have COPD?,No
