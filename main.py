@@ -82,7 +82,7 @@ if __name__ == "__main__":
     ckpt = torch.load("/cross_modal_alignment/encoder-operaGT.ckpt", map_location=DEVICE)
     audio_model.load_state_dict(ckpt["state_dict"], strict=False)
 
-    llm_type = "meta-llama/Llama-3.2-1B"
+    llm_type = "medgemma-4b-it "
     tokenizer = AutoTokenizer.from_pretrained(llm_type)
     tokenizer.padding_side = "right"
     tokenizer.pad_token = tokenizer.eos_token
